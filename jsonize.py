@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 # HTMLを取得
 url = "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html"
@@ -25,7 +26,8 @@ for row in table.find_all("tr")[1:]:  # ヘッダーを除外する
     row_data = {}
     for i, cell in enumerate(cells):
         if cell.find("font"):  # font要素があればそのテキストを取得して配列にする
-            row_data[header[i]] = [font.get_text(strip=True) for font in cell.find_all("font")]
+            font_texts = [re.sub(r"[\（\）\(\)]", "", font.get_text(strip=True)) for font in cell.find_all("font")]
+            row_data[header[i]] = font_texts
         else:  # font要素以外の要素では<br/>で区切られたテキストを配列として取得する
             text_list = [text.strip().split("，") for text in cell.strings if text.strip()]
             row_data[header[i]] = text_list
@@ -35,7 +37,7 @@ for row in table.find_all("tr")[1:]:  # ヘッダーを除外する
 json_data = json.dumps(data, ensure_ascii=False, indent=4)
 
 # JSONをファイルに書き出す
-with open("output3.json", "w", encoding="utf-8") as json_file:
+with open("output.json", "w", encoding="utf-8") as json_file:
     json_file.write(json_data)
 
-print("JSONデータが output3.json に書き出されました。")
+print("JSONデータが output.json に書き出されました。")
