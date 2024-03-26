@@ -1,3 +1,10 @@
+"""
+以下の字については、本スクリプトで処理したのち、手で書き換えた。
+橫寬鄕薰黑緖諸祥神瀨增塚都德甁福賴隆綠郞朗
+餌遡遜謎餠
+朕
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import json
