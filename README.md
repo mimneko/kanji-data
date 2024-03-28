@@ -12,7 +12,19 @@
 
 戸籍法施行規則（昭和二十二年司法省令第九十四号）別表第二（第六十条、第六十八条の二関係）[^5]による。
 
+# 漢検級別漢字表（１０級～２級）
 配当級は「日本漢字能力検定 級別漢字表（１０級～２級）」（２０２０年２月発表、公益財団法人 日本漢字能力検定協会発行）による。
+
+- 10級: 80字
+- 9級: 160字 + 10級まで
+- 8級: 200字 + 9級まで
+- 7級: 202字 + 8級まで
+- 6級: 193字 + 7級まで
+- 5級: 191字 + 6級まで
+- 4級: 313字 + 5級まで
+- 3級: 284字 + 4級まで
+- 準2級: 328字 + 3級まで
+- 2級: 185字 + 準2級まで
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
