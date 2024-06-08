@@ -33,9 +33,16 @@
 - 準2級: 328字 + 3級まで = 1951字
 - 2級: 185字 + 準2級まで = 2136字
 
+# 新旧字体対照表
+AsahiNet[^7]による。
+
+足りないので、いずれ追加する。
+
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
 [^3]: 公益財団法人 日本漢字能力検定協会．『漢検漢字辞典』第二版．2014，1984p．
 [^4]: https://www.moj.go.jp/MINJI/minji86.html
 [^5]: https://elaws.e-gov.go.jp/document?lawid=322M40000010094
 [^6]: https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/2016022902.pdf
+[^7]: https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html
+
