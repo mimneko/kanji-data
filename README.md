@@ -39,7 +39,7 @@
 # 新旧字体対照表
 AsahiNet[^7]による。
 
-足りないので、いずれ追加する。
+文献によって、新字体・旧字体の定義が異なり、これより少ないとしているもの、多いとしているものの両方が見受けられる。本リポジトリでは、最終的に「旧字体のようなもの」を網羅することを目指す。
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
