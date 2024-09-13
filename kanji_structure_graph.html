@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<!--
+https://qiita.com/madilloar/items/bb9e9dddd37639998637
+-->
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>漢字構成要素グラフ</title>
+
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/cytoscape-panzoom/2.5.3/cytoscape.js-panzoom.css">
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+
+  <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="https://unpkg.com/cytoscape@3.8.1/dist/cytoscape.min.js"></script>
+  <script src="https://unpkg.com/numeric@1.2.6/numeric-1.2.6.js"></script>
+  <script src="https://unpkg.com/layout-base@1.0.1/layout-base.js"></script>
+  <script src="https://unpkg.com/cose-base@1.0.0/cose-base.js"></script>
+  <script src="https://unpkg.com/cytoscape-fcose@1.0.0/cytoscape-fcose.js"></script>
+  <script src="https://unpkg.com/cytoscape-panzoom@2.5.3/cytoscape-panzoom.js"></script>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f4f8;
+      color: #333;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #2c3e50;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .control-panel {
+      background-color: #ffffff;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: bold;
+      margin-right: 10px;
+      color: #34495e;
+    }
+    select {
+      padding: 8px;
+      border-radius: 4px;
+      border: 1px solid #bdc3c7;
+      font-size: 14px;
+      color: #2c3e50;
+      background-color: #ecf0f1;
+    }
+    #IdCytoscape {
+      width: 100%;
+      height: 600px;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      background-color: #ffffff;
+    }
+  </style>
+  <script>
+    var CytLayout = (function () {
+      var _setLayout = function (cy, layoutName) {
+        var layout = {
+          name: layoutName,
+          fit: true,
+          animate: true
+        };
+        cy.layout(layout).run();
+        return layout;
+      };
+      return {
+        setLeyout: _setLayout
+      };
+    })();
+    document.addEventListener("DOMContentLoaded", function () {
+      var setStyles = function (nodes, edges) {
+        nodes.forEach(function (node) {
+          node.css({
+            "width": "label",
+            "height": "label",
+            "padding": "20px",
+            "content": node.id(),
+            "text-justification": "center",
+            "text-valign": "center",
+            "text-halign": "center",
+            "text-wrap": "wrap",
+            "shape": "round-rectangle",
+            "background-color": "#3498db",
+            "color": "#ffffff",
+            "font-weight": "bold",
+            "border-width": "2px",
+            "border-color": "#2980b9"
+          });
+        });
+        edges.forEach(function (edge) {
+          edge.css({
+            "curve-style": "bezier",
+            "target-arrow-shape": "triangle",
+            "line-color": "#95a5a6",
+            "target-arrow-color": "#95a5a6",
+            "width": 2
+          });
+        });
+      };
+      var cy = cytoscape({
+        container: $("#IdCytoscape"),
+        ready: function () {
+          setStyles(this.nodes(), this.edges());
+        },
+        elements: [
+          { group: 'nodes', data: { id: '盟' } },
+          { group: 'nodes', data: { id: '明' } },
+          { group: 'nodes', data: { id: '皿' } },
+          { group: 'nodes', data: { id: '血' } },
+          { group: 'nodes', data: { id: '日' } },
+          { group: 'nodes', data: { id: '月' } },
+          { group: 'edges', data: { id: 'e1', source: '明', target: '盟' } },
+          { group: 'edges', data: { id: 'e2', source: '血', target: '盟' } },
+          { group: 'edges', data: { id: 'e3', source: '日', target: '明' } },
+          { group: 'edges', data: { id: 'e4', source: '月', target: '明' } },
+        ],
+        style: [
+          {
+            selector: 'node',
+            style: {
+              'transition-property': 'background-color border-color',
+              'transition-duration': '0.3s',
+              'transition-timing-function': 'ease-in-out'
+            }
+          },
+          {
+            selector: 'node:hover',
+            style: {
+              'background-color': '#e74c3c',
+              'border-color': '#c0392b'
+            }
+          }
+        ]
+      });
+      cy.panzoom({});
+      CytLayout.setLeyout(cy, "fcose");
+      $("#IdLayout").change(function () {
+        CytLayout.setLeyout(cy, $("#IdLayout").val());
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div class="container">
+    <h1>漢字構成要素グラフ</h1>
+    <div class="control-panel">
+      <label for="IdLayout">レイアウト：</label>
+      <select name="NmLayout" id="IdLayout">
+        <option value="fcose" selected>Force-directed (F-CoSE)</option>
+        <option value="grid">Grid</option>
+        <option value="circle">Circle</option>
+        <option value="concentric">Concentric</option>
+        <option value="breadthfirst">Breadth-first</option>
+        <option value="cose">Compound Spring Embedder</option>
+      </select>
+    </div>
+    <div id="IdCytoscape"></div>
+  </div>
+</body>
+</html>
