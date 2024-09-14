@@ -1,3 +1,6 @@
+<!--
+参考文献：https://qiita.com/madilloar/items/bb9e9dddd37639998637, 2024-09-13
+-->
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -38,7 +41,6 @@
             margin-bottom: 20px;
             font-weight: 700;
             font-size: 2.5em;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
         .legend {
             background-color: #ffffff;
@@ -124,11 +126,12 @@
 
             var setStyles = function (nodes, edges) {
                 nodes.forEach(function (node) {
-                    var nodeColor = nodeColors[node.data('type')] || '#3498db';
+                    var nodeColor = nodeColors[node.data('type')] || '#ffffff';
+                    var borderColor = node.data('type') ? '#ffffff' : '#dddddd';
                     node.css({
                         "width": 80,
                         "height": 80,
-                        "content": node.data('label') || node.id(),
+                        "content": node.data('label') || ' ',
                         "text-valign": "center",
                         "text-halign": "center",
                         "background-color": nodeColor,
@@ -136,7 +139,7 @@
                         "font-size": "24px",
                         "font-weight": "bold",
                         "border-width": "2px",
-                        "border-color": "#ffffff",
+                        "border-color": borderColor,
                         "box-shadow": "0 4px 6px rgba(0,0,0,0.1)",
                         "transition-property": "background-color, border-color, box-shadow",
                         "transition-duration": "0.3s"
@@ -154,21 +157,24 @@
                 });
             };
 
-            var nodes = [                
+            var nodes = [
+                { id: 'k1', label: '一', type: '指事' },
                 { id: 'k6864', label: '皿', type: '象形' },
                 { id: 'k10084', label: '血', type: '象形' },
                 { id: 'k4099', label: '日', type: '象形' },
                 { id: 'k4319', label: '月', type: '象形' },
                 { id: 'k1127', label: '口', type: '象形' },
                 { id: 'k13125', label: '鳥', type: '象形' },
-                { id: 'b1', label: '艸', type: 'パーツ' },
-                { id: 'b2', label: '草冠', type: 'パーツ' },
+                { id: 'b1', label: '艸', type: 'パーツ', parent: 'g2' },
+                { id: 'b2', label: '草冠', type: 'パーツ', parent: 'g2' },
                 { id: 'k6893', label: '盟', type: '会意形声', components: ['k4133', 'k10084'] },
                 { id: 'k4133', label: '明', type: '会意', components: ['k4099', 'k4319'] },
-                { id: 'k9203', label: '艸の萌', type: '形声', components: ['b1', 'k4133'] },
-                { id: 'k9204', label: '萌', type: '形声', components: ['b2', 'k4133'] },
+                { id: 'k9203', label: '艸の萌', type: '形声', components: ['b1', 'k4133'], parent: 'g9203' },
+                { id: 'k9204', label: '萌', type: '形声', components: ['b2', 'k4133'], parent: 'g9203' },
                 { id: 'k9457', label: '蔦', type: '形声', components: ['b2', 'k13125'] },
                 { id: 'k13134', label: '鳴', type: '会意', components: ['k1127', 'k13125'] },
+                { id: 'g9203' },
+                { id: 'g2' },
             ];
 
             // エッジを動的に生成する関数
