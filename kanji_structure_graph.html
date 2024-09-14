@@ -1,7 +1,4 @@
-<!--
-参考文献：https://qiita.com/madilloar/items/bb9e9dddd37639998637, 2024-09-13
--->
-<!DOCTYPE html->
+<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -37,22 +34,18 @@
         h1 {
             color: #2c3e50;
             text-align: center;
-            margin: 20px 0;
+            margin-top: 0;
+            margin-bottom: 20px;
             font-weight: 700;
             font-size: 2.5em;
             text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
-        .control-panel, .legend {
+        .legend {
             background-color: #ffffff;
             border-radius: 12px;
             padding: 25px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             margin-bottom: 30px;
-        }
-        .control-panel {
-            display: flex;
-            justify-content: center;
-            align-items: center;
         }
         .legend {
             display: flex;
@@ -70,10 +63,11 @@
             border-radius: 50%;
             margin-right: 10px;
         }
-        label {
-            font-weight: 500;
-            margin-right: 15px;
-            color: #34495e;
+        #IdLayoutContainer {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 10;
         }
         select {
             padding: 10px 15px;
@@ -94,11 +88,12 @@
         }
         #IdCytoscape {
             width: 100%;
-            height: 600px;
+            height: 580px;
             border-radius: 12px;
             overflow: hidden;
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
             background-color: #ffffff;
+            position: relative;
         }
     </style>
     <script>
@@ -159,34 +154,34 @@
                 });
             };
 
-            var nodes = [
-                { data: { id: 'k6864', label: '皿', type: '象形' } },
-                { data: { id: 'k10084', label: '血', type: '象形' } },
-                { data: { id: 'k4099', label: '日', type: '象形' } },
-                { data: { id: 'k4319', label: '月', type: '象形' } },
-                { data: { id: 'k1127', label: '口', type: '象形' } },
-                { data: { id: 'k13125', label: '鳥', type: '象形' } },
-                { data: { id: 'b1', label: '艸', type: 'パーツ' } },
-                { data: { id: 'b2', label: '草冠', type: 'パーツ' } },
-                { data: { id: 'k6893', label: '盟', type: '会意形声', components: ['k4133', 'k10084'] } },
-                { data: { id: 'k4133', label: '明', type: '会意', components: ['k4099', 'k4319'] } },
-                { data: { id: 'k9203', label: '艸の萌', type: '形声', components: ['b1', 'k4133'] } },
-                { data: { id: 'k9204', label: '萌', type: '形声', components: ['b2', 'k4133'] } },
-                { data: { id: 'k9457', label: '蔦', type: '形声', components: ['b2', 'k13125'] } },
-                { data: { id: 'k13134', label: '鳴', type: '会意', components: ['k1127', 'k13125'] } },
+            var nodes = [                
+                { id: 'k6864', label: '皿', type: '象形' },
+                { id: 'k10084', label: '血', type: '象形' },
+                { id: 'k4099', label: '日', type: '象形' },
+                { id: 'k4319', label: '月', type: '象形' },
+                { id: 'k1127', label: '口', type: '象形' },
+                { id: 'k13125', label: '鳥', type: '象形' },
+                { id: 'b1', label: '艸', type: 'パーツ' },
+                { id: 'b2', label: '草冠', type: 'パーツ' },
+                { id: 'k6893', label: '盟', type: '会意形声', components: ['k4133', 'k10084'] },
+                { id: 'k4133', label: '明', type: '会意', components: ['k4099', 'k4319'] },
+                { id: 'k9203', label: '艸の萌', type: '形声', components: ['b1', 'k4133'] },
+                { id: 'k9204', label: '萌', type: '形声', components: ['b2', 'k4133'] },
+                { id: 'k9457', label: '蔦', type: '形声', components: ['b2', 'k13125'] },
+                { id: 'k13134', label: '鳴', type: '会意', components: ['k1127', 'k13125'] },
             ];
 
             // エッジを動的に生成する関数
             var generateEdges = function(nodes) {
                 var edges = [];
                 nodes.forEach(function(node) {
-                    if (node.data.components) {
-                        node.data.components.forEach(function(targetId) {
+                    if (node.components) {
+                        node.components.forEach(function(targetId) {
                             edges.push({
                                 data: {
-                                    id: node.data.id + '-' + targetId,
+                                    id: node.id + '-' + targetId,
                                     source: targetId,
-                                    target: node.data.id
+                                    target: node.id
                                 }
                             });
                         });
@@ -200,8 +195,10 @@
             var cy = cytoscape({
                 container: $("#IdCytoscape"),
                 elements: {
-                    nodes: nodes,
-                    edges: edges
+                    nodes: nodes.map(function(node) {
+                        return { data: node };  // 各ノードを data として渡す
+                    }),
+                    edges: edges // エッジデータを渡す
                 },
                 style: [
                     {
@@ -250,6 +247,11 @@
             $("#IdLayout").change(function () {
                 CytLayout.setLayout(cy, $("#IdLayout").val());
             });
+
+            // ドロップダウンリストの操作を可能にする
+            $('#IdLayoutContainer').on('mousedown mouseup click', function(e) {
+                e.stopPropagation();
+            });
         });
     </script>
 </head>
@@ -257,17 +259,6 @@
 <body>
     <div class="container">
         <h1>漢字構成要素グラフ</h1>
-        <div class="control-panel">
-            <label for="IdLayout">レイアウト：</label>
-            <select name="NmLayout" id="IdLayout">
-                <option value="fcose" selected>Force-directed (F-CoSE)</option>
-                <option value="grid">Grid</option>
-                <option value="circle">Circle</option>
-                <option value="concentric">Concentric</option>
-                <option value="breadthfirst">Breadth-first</option>
-                <option value="cose">Compound Spring Embedder</option>
-            </select>
-        </div>
         <div class="legend">
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #3498db;"></div>
@@ -294,7 +285,18 @@
                 <span>パーツ：漢字の構成要素であるものの、単一の漢字とは言い難い文字</span>
             </div>
         </div>
-        <div id="IdCytoscape"></div>
+        <div id="IdCytoscape">
+            <div id="IdLayoutContainer">
+                <select name="NmLayout" id="IdLayout">
+                    <option value="fcose" selected>Force-directed (F-CoSE)</option>
+                    <option value="grid">Grid</option>
+                    <option value="circle">Circle</option>
+                    <option value="concentric">Concentric</option>
+                    <option value="breadthfirst">Breadth-first</option>
+                    <option value="cose">Compound Spring Embedder</option>
+                </select>
+            </div>
+        </div>
     </div>
 </body>
 </html>
