@@ -1,0 +1,75 @@
+<!--
+参考文献：https://qiita.com/madilloar/items/bb9e9dddd37639998637, 2024-09-13
+-->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>漢字構成要素グラフ</title>
+
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/cytoscape-panzoom/2.5.3/cytoscape.js-panzoom.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <script src="https://unpkg.com/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script src="https://unpkg.com/cytoscape@3.19.1/dist/cytoscape.min.js"></script>
+    <script src="https://unpkg.com/layout-base@2.0.0/layout-base.js"></script>
+    <script src="https://unpkg.com/cose-base@2.1.0/cose-base.js"></script>
+    <script src="https://unpkg.com/cytoscape-fcose@2.1.0/cytoscape-fcose.js"></script>
+    <script src="https://unpkg.com/cytoscape-panzoom@2.5.3/cytoscape-panzoom.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>漢字構成要素グラフ</h1>
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #3498db;"></div>
+                <span>象形：実物の形を表した文字</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #e74c3c;"></div>
+                <span>指事：抽象的な概念を図形化した文字</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #2ecc71;"></div>
+                <span>会意：複数の意味を組み合わせた文字</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #f39c12;"></div>
+                <span>形声：意味を表す部分と音を表す部分を組み合わせた文字</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #9b59b6;"></div>
+                <span>会意形声：会意と形声の特徴を併せ持つ文字</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #000000;"></div>
+                <span>パーツ：漢字の構成要素であるものの、単一の漢字とは言い難い文字</span>
+            </div>
+        </div>
+        <div id="IdCytoscape">
+            <div id="IdLayoutContainer">
+                <select name="NmLayout" id="IdLayout">
+                    <option value="fcose" selected>Force-directed (F-CoSE)</option>
+                    <option value="grid">Grid</option>
+                    <option value="circle">Circle</option>
+                    <option value="concentric">Concentric</option>
+                    <option value="breadthfirst">Breadth-first</option>
+                    <option value="cose">Compound Spring Embedder</option>
+                </select>
+            </div>
+            <div id="IdSearchContainer">
+                <input type="text" id="IdSearch" placeholder="漢字を入力">
+                <button id="IdSearchButton">検索</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
