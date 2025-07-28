@@ -1,0 +1,3467 @@
+[
+    {
+        "新字": "亜",
+        "新字JIS": "3021",
+        "新字Unicode": "4E9C",
+        "旧字": "亞",
+        "旧字JIS": "5033",
+        "旧字Unicode": "4E9E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "悪",
+        "新字JIS": "302D",
+        "新字Unicode": "60AA",
+        "旧字": "惡",
+        "旧字JIS": "5828",
+        "旧字Unicode": "60E1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "圧",
+        "新字JIS": "3035",
+        "新字Unicode": "5727",
+        "旧字": "壓",
+        "旧字JIS": "545A",
+        "旧字Unicode": "58D3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "囲",
+        "新字JIS": "304F",
+        "新字Unicode": "56F2",
+        "旧字": "圍",
+        "旧字JIS": "5423",
+        "旧字Unicode": "570D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "為",
+        "新字JIS": "3059",
+        "新字Unicode": "70BA",
+        "旧字": "爲",
+        "旧字JIS": "602A",
+        "旧字Unicode": "7232",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "医",
+        "新字JIS": "3065",
+        "新字Unicode": "533B",
+        "旧字": "醫",
+        "旧字JIS": "6E50",
+        "旧字Unicode": "91AB",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "壱",
+        "新字JIS": "306D",
+        "新字Unicode": "58F1",
+        "旧字": "壹",
+        "旧字JIS": "5465",
+        "旧字Unicode": "58F9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "逸",
+        "新字JIS": "306F",
+        "新字Unicode": "9038",
+        "旧字": "逸",
+        "旧字JIS": "7C59",
+        "旧字Unicode": "FA67",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "稲",
+        "新字JIS": "3070",
+        "新字Unicode": "7A32",
+        "旧字": "稻",
+        "旧字JIS": "634B",
+        "旧字Unicode": "7A3B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "飲",
+        "新字JIS": "307B",
+        "新字Unicode": "98F2",
+        "旧字": "飮",
+        "旧字JIS": "5D3B",
+        "旧字Unicode": "98EE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "隠",
+        "新字JIS": "3123",
+        "新字Unicode": "96A0",
+        "旧字": "隱",
+        "旧字JIS": "702C",
+        "旧字Unicode": "96B1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "営",
+        "新字JIS": "3144",
+        "新字Unicode": "55B6",
+        "旧字": "營",
+        "旧字JIS": "535B",
+        "旧字Unicode": "71DF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "栄",
+        "新字JIS": "3149",
+        "新字Unicode": "6804",
+        "旧字": "榮",
+        "旧字JIS": "5C46",
+        "旧字Unicode": "69AE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "衛",
+        "新字JIS": "3152",
+        "新字Unicode": "885B",
+        "旧字": "衞",
+        "旧字JIS": "6A4C",
+        "旧字Unicode": "885E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "駅",
+        "新字JIS": "3158",
+        "新字Unicode": "99C5",
+        "旧字": "驛",
+        "旧字JIS": "7163",
+        "旧字Unicode": "9A5B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "謁",
+        "新字JIS": "315A",
+        "新字Unicode": "8B01",
+        "旧字": "謁",
+        "旧字JIS": "7C2F",
+        "旧字Unicode": "FA62",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "円",
+        "新字JIS": "315F",
+        "新字Unicode": "5186",
+        "旧字": "圓",
+        "旧字JIS": "5424",
+        "旧字Unicode": "5713",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "縁",
+        "新字JIS": "316F",
+        "新字Unicode": "7E01",
+        "旧字": "緣",
+        "旧字JIS": "7A2D",
+        "旧字Unicode": "7DE3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "艶",
+        "新字JIS": "3170",
+        "新字Unicode": "8276",
+        "旧字": "艷",
+        "旧字JIS": "6766",
+        "旧字Unicode": "8277",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "塩",
+        "新字JIS": "3176",
+        "新字Unicode": "5869",
+        "旧字": "鹽",
+        "旧字JIS": "7345",
+        "旧字Unicode": "9E7D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "奥",
+        "新字JIS": "317C",
+        "新字Unicode": "5965",
+        "旧字": "奧",
+        "旧字JIS": "547C",
+        "旧字Unicode": "5967",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "応",
+        "新字JIS": "317E",
+        "新字Unicode": "5FDC",
+        "旧字": "應",
+        "旧字JIS": "5866",
+        "旧字Unicode": "61C9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "横",
+        "新字JIS": "3223",
+        "新字Unicode": "6A2A",
+        "旧字": "橫",
+        "旧字JIS": "7630",
+        "旧字Unicode": "6A6B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "欧",
+        "新字JIS": "3224",
+        "新字Unicode": "6B27",
+        "旧字": "歐",
+        "旧字JIS": "5D3F",
+        "旧字Unicode": "6B50",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "殴",
+        "新字JIS": "3225",
+        "新字Unicode": "6BB4",
+        "旧字": "毆",
+        "旧字JIS": "5D58",
+        "旧字Unicode": "6BC6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "黄",
+        "新字JIS": "322B",
+        "新字Unicode": "9EC4",
+        "旧字": "黃",
+        "旧字JIS": "7E71",
+        "旧字Unicode": "9EC3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "温",
+        "新字JIS": "3239",
+        "新字Unicode": "6E29",
+        "旧字": "溫",
+        "旧字JIS": "767C",
+        "旧字Unicode": "6EAB",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "穏",
+        "新字JIS": "323A",
+        "新字Unicode": "7A4F",
+        "旧字": "穩",
+        "旧字JIS": "6353",
+        "旧字Unicode": "7A69",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "仮",
+        "新字JIS": "323E",
+        "新字Unicode": "4EEE",
+        "旧字": "假",
+        "旧字JIS": "5071",
+        "旧字Unicode": "5047",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "価",
+        "新字JIS": "3241",
+        "新字Unicode": "4FA1",
+        "旧字": "價",
+        "旧字JIS": "512B",
+        "旧字Unicode": "50F9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "禍",
+        "新字JIS": "3252",
+        "新字Unicode": "798D",
+        "旧字": "禍",
+        "旧字JIS": "793F",
+        "旧字Unicode": "FA52",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "画",
+        "新字JIS": "3268",
+        "新字Unicode": "753B",
+        "旧字": "畫",
+        "旧字JIS": "6141",
+        "旧字Unicode": "756B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "会",
+        "新字JIS": "3271",
+        "新字Unicode": "4F1A",
+        "旧字": "會",
+        "旧字JIS": "5072",
+        "旧字Unicode": "6703",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "壊",
+        "新字JIS": "3275",
+        "新字Unicode": "58CA",
+        "旧字": "壞",
+        "旧字JIS": "5455",
+        "旧字Unicode": "58DE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "悔",
+        "新字JIS": "3279",
+        "新字Unicode": "6094",
+        "旧字": "悔",
+        "旧字JIS": "7450",
+        "旧字Unicode": "FA3D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "懐",
+        "新字JIS": "327B",
+        "新字Unicode": "61D0",
+        "旧字": "懷",
+        "旧字JIS": "5867",
+        "旧字Unicode": "61F7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "海",
+        "新字JIS": "3324",
+        "新字Unicode": "6D77",
+        "旧字": "海",
+        "旧字JIS": "7669",
+        "旧字Unicode": "FA45",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "絵",
+        "新字JIS": "3328",
+        "新字Unicode": "7D75",
+        "旧字": "繪",
+        "旧字JIS": "6569",
+        "旧字Unicode": "7E6A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "慨",
+        "新字JIS": "3334",
+        "新字Unicode": "6168",
+        "旧字": "慨",
+        "旧字JIS": "745C",
+        "旧字Unicode": "FA3E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "概",
+        "新字JIS": "3335",
+        "新字Unicode": "6982",
+        "旧字": "槪",
+        "旧字JIS": "7624",
+        "旧字Unicode": "69EA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "拡",
+        "新字JIS": "3348",
+        "新字Unicode": "62E1",
+        "旧字": "擴",
+        "旧字JIS": "5A32",
+        "旧字Unicode": "64F4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "殻",
+        "新字JIS": "334C",
+        "新字Unicode": "6BBB",
+        "旧字": "殼",
+        "旧字JIS": "5D57",
+        "旧字Unicode": "6BBC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "覚",
+        "新字JIS": "3350",
+        "新字Unicode": "899A",
+        "旧字": "覺",
+        "旧字JIS": "6B34",
+        "旧字Unicode": "89BA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "学",
+        "新字JIS": "3358",
+        "新字Unicode": "5B66",
+        "旧字": "學",
+        "旧字JIS": "555C",
+        "旧字Unicode": "5B78",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "岳",
+        "新字JIS": "3359",
+        "新字Unicode": "5CB3",
+        "旧字": "嶽",
+        "旧字JIS": "5656",
+        "旧字Unicode": "5DBD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "楽",
+        "新字JIS": "335A",
+        "新字Unicode": "697D",
+        "旧字": "樂",
+        "旧字JIS": "5C5B",
+        "旧字Unicode": "6A02",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "喝",
+        "新字JIS": "3365",
+        "新字Unicode": "559D",
+        "旧字": "喝",
+        "旧字JIS": "2F2C",
+        "旧字Unicode": "FA36",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "渇",
+        "新字JIS": "3369",
+        "新字Unicode": "6E07",
+        "旧字": "渴",
+        "旧字JIS": "7678",
+        "旧字Unicode": "6E34",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "褐",
+        "新字JIS": "336C",
+        "新字Unicode": "8910",
+        "旧字": "褐",
+        "旧字JIS": "7B6F",
+        "旧字Unicode": "FA60",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "勧",
+        "新字JIS": "342B",
+        "新字Unicode": "52E7",
+        "旧字": "勸",
+        "旧字JIS": "5230",
+        "旧字Unicode": "52F8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "巻",
+        "新字JIS": "342C",
+        "新字Unicode": "5DFB",
+        "旧字": "卷",
+        "旧字JIS": "524B",
+        "旧字Unicode": "5377",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "寛",
+        "新字JIS": "3432",
+        "新字Unicode": "5BDB",
+        "旧字": "寬",
+        "旧字JIS": "4F5A",
+        "旧字Unicode": "5BEC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "歓",
+        "新字JIS": "343F",
+        "新字Unicode": "6B53",
+        "旧字": "歡",
+        "旧字JIS": "5D44",
+        "旧字Unicode": "6B61",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "漢",
+        "新字JIS": "3441",
+        "新字Unicode": "6F22",
+        "旧字": "漢",
+        "旧字JIS": "7725",
+        "旧字Unicode": "FA47",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "缶",
+        "新字JIS": "344C",
+        "新字Unicode": "7F36",
+        "旧字": "罐",
+        "旧字JIS": "6625",
+        "旧字Unicode": "7F50",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "観",
+        "新字JIS": "3451",
+        "新字Unicode": "89B3",
+        "旧字": "觀",
+        "旧字JIS": "6B37",
+        "旧字Unicode": "89C0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "関",
+        "新字JIS": "3458",
+        "新字Unicode": "95A2",
+        "旧字": "關",
+        "旧字JIS": "6F70",
+        "旧字Unicode": "95DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "陥",
+        "新字JIS": "3459",
+        "新字Unicode": "9665",
+        "旧字": "陷",
+        "旧字JIS": "6F7C",
+        "旧字Unicode": "9677",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "巌",
+        "新字JIS": "3460",
+        "新字Unicode": "5DCC",
+        "旧字": "巖",
+        "旧字JIS": "565E",
+        "旧字Unicode": "5DD6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "顔",
+        "新字JIS": "3469",
+        "新字Unicode": "9854",
+        "旧字": "顏",
+        "旧字JIS": "707A",
+        "旧字Unicode": "984F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "器",
+        "新字JIS": "346F",
+        "新字Unicode": "5668",
+        "旧字": "器",
+        "旧字JIS": "2F36",
+        "旧字Unicode": "FA38",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "既",
+        "新字JIS": "347B",
+        "新字Unicode": "65E2",
+        "旧字": "既",
+        "旧字JIS": "752B",
+        "旧字Unicode": "FA42",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "帰",
+        "新字JIS": "3522",
+        "新字Unicode": "5E30",
+        "旧字": "歸",
+        "旧字JIS": "5D45",
+        "旧字Unicode": "6B78",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "気",
+        "新字JIS": "3524",
+        "新字Unicode": "6C17",
+        "旧字": "氣",
+        "旧字JIS": "5D66",
+        "旧字Unicode": "6C23",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祈",
+        "新字JIS": "3527",
+        "新字Unicode": "7948",
+        "旧字": "祈",
+        "旧字JIS": "7973",
+        "旧字Unicode": "FA4E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "亀",
+        "新字JIS": "3535",
+        "新字Unicode": "4E80",
+        "旧字": "龜",
+        "旧字JIS": "737D",
+        "旧字Unicode": "9F9C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "偽",
+        "新字JIS": "3536",
+        "新字Unicode": "507D",
+        "旧字": "僞",
+        "旧字JIS": "5126",
+        "旧字Unicode": "50DE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "戯",
+        "新字JIS": "353A",
+        "新字Unicode": "622F",
+        "旧字": "戲",
+        "旧字JIS": "5926",
+        "旧字Unicode": "6232",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "犠",
+        "新字JIS": "353E",
+        "新字Unicode": "72A0",
+        "旧字": "犧",
+        "旧字JIS": "603A",
+        "旧字Unicode": "72A7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "旧",
+        "新字JIS": "356C",
+        "新字Unicode": "65E7",
+        "旧字": "舊",
+        "旧字JIS": "6751",
+        "旧字Unicode": "820A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "拠",
+        "新字JIS": "3572",
+        "新字Unicode": "62E0",
+        "旧字": "據",
+        "旧字JIS": "5A21",
+        "旧字Unicode": "64DA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "挙",
+        "新字JIS": "3573",
+        "新字Unicode": "6319",
+        "旧字": "擧",
+        "旧字JIS": "5A29",
+        "旧字Unicode": "64E7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "虚",
+        "新字JIS": "3575",
+        "新字Unicode": "865A",
+        "旧字": "虛",
+        "旧字JIS": "7B4E",
+        "旧字Unicode": "865B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "峡",
+        "新字JIS": "362E",
+        "新字Unicode": "5CE1",
+        "旧字": "峽",
+        "旧字JIS": "5637",
+        "旧字Unicode": "5CFD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "挟",
+        "新字JIS": "3634",
+        "新字Unicode": "631F",
+        "旧字": "挾",
+        "旧字JIS": "5951",
+        "旧字Unicode": "633E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "狭",
+        "新字JIS": "3639",
+        "新字Unicode": "72ED",
+        "旧字": "狹",
+        "旧字JIS": "6045",
+        "旧字Unicode": "72F9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "郷",
+        "新字JIS": "363F",
+        "新字Unicode": "90F7",
+        "旧字": "鄕",
+        "旧字JIS": "7C6C",
+        "旧字Unicode": "9115",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "響",
+        "新字JIS": "3641",
+        "新字Unicode": "97FF",
+        "旧字": "響",
+        "旧字JIS": "7D76",
+        "旧字Unicode": "FA69",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "尭",
+        "新字JIS": "3646",
+        "新字Unicode": "5C2D",
+        "旧字": "堯",
+        "旧字JIS": "7421",
+        "旧字Unicode": "582F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "暁",
+        "新字JIS": "3647",
+        "新字Unicode": "6681",
+        "旧字": "曉",
+        "旧字JIS": "5A7C",
+        "旧字Unicode": "66C9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "勤",
+        "新字JIS": "3650",
+        "新字Unicode": "52E4",
+        "旧字": "勤",
+        "旧字JIS": "2E68",
+        "旧字Unicode": "FA34",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "謹",
+        "新字JIS": "3660",
+        "新字Unicode": "8B39",
+        "旧字": "謹",
+        "旧字JIS": "7C30",
+        "旧字Unicode": "FA63",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "区",
+        "新字JIS": "3668",
+        "新字Unicode": "533A",
+        "旧字": "區",
+        "旧字JIS": "523F",
+        "旧字Unicode": "5340",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "駆",
+        "新字JIS": "366E",
+        "新字Unicode": "99C6",
+        "旧字": "驅",
+        "旧字JIS": "715C",
+        "旧字Unicode": "9A45",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "勲",
+        "新字JIS": "372E",
+        "新字Unicode": "52F2",
+        "旧字": "勳",
+        "旧字JIS": "522E",
+        "旧字Unicode": "52F3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "薫",
+        "新字JIS": "3730",
+        "新字Unicode": "85AB",
+        "旧字": "薰",
+        "旧字JIS": "7B40",
+        "旧字Unicode": "85B0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "径",
+        "新字JIS": "3742",
+        "新字Unicode": "5F84",
+        "旧字": "徑",
+        "旧字JIS": "574D",
+        "旧字Unicode": "5F91",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "恵",
+        "新字JIS": "3743",
+        "新字Unicode": "6075",
+        "旧字": "惠",
+        "旧字JIS": "582A",
+        "旧字Unicode": "60E0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "掲",
+        "新字JIS": "3747",
+        "新字Unicode": "63B2",
+        "旧字": "揭",
+        "旧字JIS": "7473",
+        "旧字Unicode": "63ED",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "渓",
+        "新字JIS": "374C",
+        "新字Unicode": "6E13",
+        "旧字": "溪",
+        "旧字JIS": "5E64",
+        "旧字Unicode": "6EAA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "経",
+        "新字JIS": "3750",
+        "新字Unicode": "7D4C",
+        "旧字": "經",
+        "旧字JIS": "6534",
+        "旧字Unicode": "7D93",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "継",
+        "新字JIS": "3751",
+        "新字Unicode": "7D99",
+        "旧字": "繼",
+        "旧字JIS": "656B",
+        "旧字Unicode": "7E7C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "茎",
+        "新字JIS": "3754",
+        "新字Unicode": "830E",
+        "旧字": "莖",
+        "旧字JIS": "6833",
+        "旧字Unicode": "8396",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "蛍",
+        "新字JIS": "3756",
+        "新字Unicode": "86CD",
+        "旧字": "螢",
+        "旧字JIS": "6A25",
+        "旧字Unicode": "87A2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "軽",
+        "新字JIS": "375A",
+        "新字Unicode": "8EFD",
+        "旧字": "輕",
+        "旧字JIS": "6D4B",
+        "旧字Unicode": "8F15",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "鶏",
+        "新字JIS": "375C",
+        "新字Unicode": "9D8F",
+        "旧字": "鷄",
+        "旧字JIS": "7331",
+        "旧字Unicode": "9DC4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "芸",
+        "新字JIS": "375D",
+        "新字Unicode": "82B8",
+        "旧字": "藝",
+        "旧字JIS": "693A",
+        "旧字Unicode": "85DD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "撃",
+        "新字JIS": "3762",
+        "新字Unicode": "6483",
+        "旧字": "擊",
+        "旧字JIS": "7522",
+        "旧字Unicode": "64CA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "欠",
+        "新字JIS": "3767",
+        "新字Unicode": "6B20",
+        "旧字": "缺",
+        "旧字JIS": "657E",
+        "旧字Unicode": "7F3A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "倹",
+        "新字JIS": "3770",
+        "新字Unicode": "5039",
+        "旧字": "儉",
+        "旧字JIS": "512D",
+        "旧字Unicode": "5109",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "剣",
+        "新字JIS": "3775",
+        "新字Unicode": "5263",
+        "旧字": "劍",
+        "旧字JIS": "5178",
+        "旧字Unicode": "528D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "圏",
+        "新字JIS": "3777",
+        "新字Unicode": "570F",
+        "旧字": "圈",
+        "旧字JIS": "5421",
+        "旧字Unicode": "5708",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "検",
+        "新字JIS": "3821",
+        "新字Unicode": "691C",
+        "旧字": "檢",
+        "旧字JIS": "5C7D",
+        "旧字Unicode": "6AA2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "権",
+        "新字JIS": "3822",
+        "新字Unicode": "6A29",
+        "旧字": "權",
+        "旧字JIS": "5C5E",
+        "旧字Unicode": "6B0A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "献",
+        "新字JIS": "3825",
+        "新字Unicode": "732E",
+        "旧字": "獻",
+        "旧字JIS": "605B",
+        "旧字Unicode": "737B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "研",
+        "新字JIS": "3826",
+        "新字Unicode": "7814",
+        "旧字": "硏",
+        "旧字JIS": "7923",
+        "旧字Unicode": "784F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "県",
+        "新字JIS": "3829",
+        "新字Unicode": "770C",
+        "旧字": "縣",
+        "旧字JIS": "6551",
+        "旧字Unicode": "7E23",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "険",
+        "新字JIS": "3831",
+        "新字Unicode": "967A",
+        "旧字": "險",
+        "旧字JIS": "702A",
+        "旧字Unicode": "96AA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "顕",
+        "新字JIS": "3832",
+        "新字Unicode": "9855",
+        "旧字": "顯",
+        "旧字JIS": "707D",
+        "旧字Unicode": "986F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "験",
+        "新字JIS": "3833",
+        "新字Unicode": "9A13",
+        "旧字": "驗",
+        "旧字JIS": "7164",
+        "旧字Unicode": "9A57",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "厳",
+        "新字JIS": "3837",
+        "新字Unicode": "53B3",
+        "旧字": "嚴",
+        "旧字JIS": "536E",
+        "旧字Unicode": "56B4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "効",
+        "新字JIS": "387A",
+        "新字Unicode": "52B9",
+        "旧字": "效",
+        "旧字JIS": "5A43",
+        "旧字Unicode": "6548",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "広",
+        "新字JIS": "392D",
+        "新字Unicode": "5E83",
+        "旧字": "廣",
+        "旧字JIS": "5722",
+        "旧字Unicode": "5EE3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "恒",
+        "新字JIS": "3931",
+        "新字Unicode": "6052",
+        "旧字": "恆",
+        "旧字JIS": "5771",
+        "旧字Unicode": "6046",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "鉱",
+        "新字JIS": "395B",
+        "新字Unicode": "9271",
+        "旧字": "鑛",
+        "旧字JIS": "6F4A",
+        "旧字Unicode": "945B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "号",
+        "新字JIS": "3966",
+        "新字Unicode": "53F7",
+        "旧字": "號",
+        "旧字JIS": "694B",
+        "旧字Unicode": "865F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "国",
+        "新字JIS": "3971",
+        "新字Unicode": "56FD",
+        "旧字": "國",
+        "旧字JIS": "5422",
+        "旧字Unicode": "570B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "穀",
+        "新字JIS": "3972",
+        "新字Unicode": "7A40",
+        "旧字": "穀",
+        "旧字JIS": "794D",
+        "旧字Unicode": "FA54",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "黒",
+        "新字JIS": "3975",
+        "新字Unicode": "9ED2",
+        "旧字": "黑",
+        "旧字JIS": "7E72",
+        "旧字Unicode": "9ED1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "済",
+        "新字JIS": "3A51",
+        "新字Unicode": "6E08",
+        "旧字": "濟",
+        "旧字JIS": "5F3B",
+        "旧字Unicode": "6FDF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "砕",
+        "新字JIS": "3A55",
+        "新字Unicode": "7815",
+        "旧字": "碎",
+        "旧字JIS": "626C",
+        "旧字Unicode": "788E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "斎",
+        "新字JIS": "3A58",
+        "新字Unicode": "658E",
+        "旧字": "齋",
+        "旧字JIS": "6337",
+        "旧字Unicode": "9F4B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "剤",
+        "新字JIS": "3A5E",
+        "新字Unicode": "5264",
+        "旧字": "劑",
+        "旧字JIS": "517D",
+        "旧字Unicode": "5291",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "桜",
+        "新字JIS": "3A79",
+        "新字Unicode": "685C",
+        "旧字": "櫻",
+        "旧字JIS": "5D2F",
+        "旧字Unicode": "6AFB",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "冊",
+        "新字JIS": "3A7D",
+        "新字Unicode": "518A",
+        "旧字": "册",
+        "旧字JIS": "5146",
+        "旧字Unicode": "518C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "殺",
+        "新字JIS": "3B26",
+        "新字Unicode": "6BBA",
+        "旧字": "殺",
+        "旧字JIS": "7649",
+        "旧字Unicode": "F970",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "雑",
+        "新字JIS": "3B28",
+        "新字Unicode": "96D1",
+        "旧字": "雜",
+        "旧字JIS": "7038",
+        "旧字Unicode": "96DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "参",
+        "新字JIS": "3B32",
+        "新字Unicode": "53C2",
+        "旧字": "參",
+        "旧字JIS": "5254",
+        "旧字Unicode": "53C3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "惨",
+        "新字JIS": "3B34",
+        "新字Unicode": "60E8",
+        "旧字": "慘",
+        "旧字JIS": "584E",
+        "旧字Unicode": "6158",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "桟",
+        "新字JIS": "3B37",
+        "新字Unicode": "685F",
+        "旧字": "棧",
+        "旧字JIS": "5C22",
+        "旧字Unicode": "68E7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "蚕",
+        "新字JIS": "3B3D",
+        "新字Unicode": "8695",
+        "旧字": "蠶",
+        "旧字JIS": "6A44",
+        "旧字Unicode": "8836",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "賛",
+        "新字JIS": "3B3F",
+        "新字Unicode": "8CDB",
+        "旧字": "贊",
+        "旧字JIS": "6C55",
+        "旧字Unicode": "8D0A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "残",
+        "新字JIS": "3B44",
+        "新字Unicode": "6B8B",
+        "旧字": "殘",
+        "旧字JIS": "5D4C",
+        "旧字Unicode": "6B98",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祉",
+        "新字JIS": "3B63",
+        "新字Unicode": "7949",
+        "旧字": "祉",
+        "旧字JIS": "7934",
+        "旧字Unicode": "FA4D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "糸",
+        "新字JIS": "3B65",
+        "新字Unicode": "7CF8",
+        "旧字": "絲",
+        "旧字JIS": "652F",
+        "旧字Unicode": "7D72",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "視",
+        "新字JIS": "3B6B",
+        "新字Unicode": "8996",
+        "旧字": "視",
+        "旧字JIS": "7B79",
+        "旧字Unicode": "FA61",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "歯",
+        "新字JIS": "3B75",
+        "新字Unicode": "6B6F",
+        "旧字": "齒",
+        "旧字JIS": "736F",
+        "旧字Unicode": "9F52",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "児",
+        "新字JIS": "3B79",
+        "新字Unicode": "5150",
+        "旧字": "兒",
+        "旧字JIS": "513B",
+        "旧字Unicode": "5152",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "辞",
+        "新字JIS": "3C2D",
+        "新字Unicode": "8F9E",
+        "旧字": "辭",
+        "旧字JIS": "6D66",
+        "旧字Unicode": "8FAD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "湿",
+        "新字JIS": "3C3E",
+        "新字Unicode": "6E7F",
+        "旧字": "濕",
+        "旧字JIS": "5F3C",
+        "旧字Unicode": "6FD5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "実",
+        "新字JIS": "3C42",
+        "新字Unicode": "5B9F",
+        "旧字": "實",
+        "旧字JIS": "5569",
+        "旧字Unicode": "5BE6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "舎",
+        "新字JIS": "3C4B",
+        "新字Unicode": "820E",
+        "旧字": "舍",
+        "旧字JIS": "6752",
+        "旧字Unicode": "820D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "写",
+        "新字JIS": "3C4C",
+        "新字Unicode": "5199",
+        "旧字": "寫",
+        "旧字JIS": "556D",
+        "旧字Unicode": "5BEB",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "煮",
+        "新字JIS": "3C51",
+        "新字Unicode": "716E",
+        "旧字": "煮",
+        "旧字JIS": "7755",
+        "旧字Unicode": "FA48",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "社",
+        "新字JIS": "3C52",
+        "新字Unicode": "793E",
+        "旧字": "社",
+        "旧字JIS": "7933",
+        "旧字Unicode": "FA4C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "者",
+        "新字JIS": "3C54",
+        "新字Unicode": "8005",
+        "旧字": "者",
+        "旧字JIS": "7A44",
+        "旧字Unicode": "FA5B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "釈",
+        "新字JIS": "3C61",
+        "新字Unicode": "91C8",
+        "旧字": "釋",
+        "旧字JIS": "6E59",
+        "旧字Unicode": "91CB",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "寿",
+        "新字JIS": "3C77",
+        "新字Unicode": "5BFF",
+        "旧字": "壽",
+        "旧字JIS": "5468",
+        "旧字Unicode": "58FD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "収",
+        "新字JIS": "3C7D",
+        "新字Unicode": "53CE",
+        "旧字": "收",
+        "旧字JIS": "5A40",
+        "旧字Unicode": "6536",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "臭",
+        "新字JIS": "3D2D",
+        "新字Unicode": "81ED",
+        "旧字": "臭",
+        "旧字JIS": "7A58",
+        "旧字Unicode": "FA5C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "従",
+        "新字JIS": "3D3E",
+        "新字Unicode": "5F93",
+        "旧字": "從",
+        "旧字JIS": "574F",
+        "旧字Unicode": "5F9E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "渋",
+        "新字JIS": "3D42",
+        "新字Unicode": "6E0B",
+        "旧字": "澁",
+        "旧字JIS": "5F27",
+        "旧字Unicode": "6F81",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "獣",
+        "新字JIS": "3D43",
+        "新字Unicode": "7363",
+        "旧字": "獸",
+        "旧字JIS": "6059",
+        "旧字Unicode": "7378",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "縦",
+        "新字JIS": "3D44",
+        "新字Unicode": "7E26",
+        "旧字": "縱",
+        "旧字JIS": "6554",
+        "旧字Unicode": "7E31",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祝",
+        "新字JIS": "3D4B",
+        "新字Unicode": "795D",
+        "旧字": "祝",
+        "旧字JIS": "793B",
+        "旧字Unicode": "FA51",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "粛",
+        "新字JIS": "3D4D",
+        "新字Unicode": "7C9B",
+        "旧字": "肅",
+        "旧字JIS": "6669",
+        "旧字Unicode": "8085",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "処",
+        "新字JIS": "3D68",
+        "新字Unicode": "51E6",
+        "旧字": "處",
+        "旧字JIS": "515D",
+        "旧字Unicode": "8655",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "暑",
+        "新字JIS": "3D6B",
+        "新字Unicode": "6691",
+        "旧字": "暑",
+        "旧字JIS": "7543",
+        "旧字Unicode": "FA43",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "渚",
+        "新字JIS": "3D6D",
+        "新字Unicode": "6E1A",
+        "旧字": "渚",
+        "旧字JIS": "7677",
+        "旧字Unicode": "FA46",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "緒",
+        "新字JIS": "3D6F",
+        "新字Unicode": "7DD2",
+        "旧字": "緖",
+        "旧字JIS": "7A2C",
+        "旧字Unicode": "7DD6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "署",
+        "新字JIS": "3D70",
+        "新字Unicode": "7F72",
+        "旧字": "署",
+        "旧字JIS": "7A3A",
+        "旧字Unicode": "FA5A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "諸",
+        "新字JIS": "3D74",
+        "新字Unicode": "8AF8",
+        "旧字": "諸",
+        "旧字JIS": "7C2E",
+        "旧字Unicode": "FA22",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "叙",
+        "新字JIS": "3D76",
+        "新字Unicode": "53D9",
+        "旧字": "敍",
+        "旧字JIS": "5A46",
+        "旧字Unicode": "654D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "奨",
+        "新字JIS": "3E29",
+        "新字Unicode": "5968",
+        "旧字": "奬",
+        "旧字JIS": "547D",
+        "旧字Unicode": "596C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "将",
+        "新字JIS": "3E2D",
+        "新字Unicode": "5C06",
+        "旧字": "將",
+        "旧字JIS": "5572",
+        "旧字Unicode": "5C07",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "渉",
+        "新字JIS": "3E44",
+        "新字Unicode": "6E09",
+        "旧字": "涉",
+        "旧字JIS": "766C",
+        "旧字Unicode": "6D89",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "焼",
+        "新字JIS": "3E46",
+        "新字Unicode": "713C",
+        "旧字": "燒",
+        "旧字JIS": "5F76",
+        "旧字Unicode": "71D2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祥",
+        "新字JIS": "3E4D",
+        "新字Unicode": "7965",
+        "旧字": "祥",
+        "旧字JIS": "793D",
+        "旧字Unicode": "FA1A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "称",
+        "新字JIS": "3E4E",
+        "新字Unicode": "79F0",
+        "旧字": "稱",
+        "旧字JIS": "634A",
+        "旧字Unicode": "7A31",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "証",
+        "新字JIS": "3E5A",
+        "新字Unicode": "8A3C",
+        "旧字": "證",
+        "旧字JIS": "6B7A",
+        "旧字Unicode": "8B49",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "乗",
+        "新字JIS": "3E68",
+        "新字Unicode": "4E57",
+        "旧字": "乘",
+        "旧字JIS": "502B",
+        "旧字Unicode": "4E58",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "剰",
+        "新字JIS": "3E6A",
+        "新字Unicode": "5270",
+        "旧字": "剩",
+        "旧字JIS": "5174",
+        "旧字Unicode": "5269",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "壌",
+        "新字JIS": "3E6D",
+        "新字Unicode": "58CC",
+        "旧字": "壤",
+        "旧字JIS": "5461",
+        "旧字Unicode": "58E4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "嬢",
+        "新字JIS": "3E6E",
+        "新字Unicode": "5B22",
+        "旧字": "孃",
+        "旧字JIS": "5550",
+        "旧字Unicode": "5B43",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "条",
+        "新字JIS": "3E72",
+        "新字Unicode": "6761",
+        "旧字": "條",
+        "旧字JIS": "5B6A",
+        "旧字Unicode": "689D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "浄",
+        "新字JIS": "3E74",
+        "新字Unicode": "6D44",
+        "旧字": "淨",
+        "旧字JIS": "5E46",
+        "旧字Unicode": "6DE8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "状",
+        "新字JIS": "3E75",
+        "新字Unicode": "72B6",
+        "旧字": "狀",
+        "旧字JIS": "776D",
+        "旧字Unicode": "72C0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "畳",
+        "新字JIS": "3E76",
+        "新字Unicode": "7573",
+        "旧字": "疊",
+        "旧字JIS": "6148",
+        "旧字Unicode": "758A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "穣",
+        "新字JIS": "3E77",
+        "新字Unicode": "7A63",
+        "旧字": "穰",
+        "旧字JIS": "6355",
+        "旧字Unicode": "7A70",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "譲",
+        "新字JIS": "3E79",
+        "新字Unicode": "8B72",
+        "旧字": "讓",
+        "旧字JIS": "6C2A",
+        "旧字Unicode": "8B93",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "醸",
+        "新字JIS": "3E7A",
+        "新字Unicode": "91B8",
+        "旧字": "釀",
+        "旧字JIS": "6E56",
+        "旧字Unicode": "91C0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "嘱",
+        "新字JIS": "3E7C",
+        "新字Unicode": "5631",
+        "旧字": "囑",
+        "旧字JIS": "5376",
+        "旧字Unicode": "56D1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "触",
+        "新字JIS": "3F28",
+        "新字Unicode": "89E6",
+        "旧字": "觸",
+        "旧字JIS": "6B3D",
+        "旧字Unicode": "89F8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "寝",
+        "新字JIS": "3F32",
+        "新字Unicode": "5BDD",
+        "旧字": "寢",
+        "旧字JIS": "556A",
+        "旧字Unicode": "5BE2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "慎",
+        "新字JIS": "3F35",
+        "新字Unicode": "614E",
+        "旧字": "愼",
+        "旧字JIS": "5846",
+        "旧字Unicode": "613C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "晋",
+        "新字JIS": "3F38",
+        "新字Unicode": "664B",
+        "旧字": "晉",
+        "旧字JIS": "5A69",
+        "旧字Unicode": "6649",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "真",
+        "新字JIS": "3F3F",
+        "新字Unicode": "771F",
+        "旧字": "眞",
+        "旧字JIS": "6243",
+        "旧字Unicode": "771E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "神",
+        "新字JIS": "3F40",
+        "新字Unicode": "795E",
+        "旧字": "神",
+        "旧字JIS": "793C",
+        "旧字Unicode": "FA19",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "尽",
+        "新字JIS": "3F54",
+        "新字Unicode": "5C3D",
+        "旧字": "盡",
+        "旧字JIS": "6238",
+        "旧字Unicode": "76E1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "図",
+        "新字JIS": "3F5E",
+        "新字Unicode": "56F3",
+        "旧字": "圖",
+        "旧字JIS": "5426",
+        "旧字Unicode": "5716",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "粋",
+        "新字JIS": "3F68",
+        "新字Unicode": "7C8B",
+        "旧字": "粹",
+        "旧字JIS": "646F",
+        "旧字Unicode": "7CB9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "酔",
+        "新字JIS": "3F6C",
+        "新字Unicode": "9154",
+        "旧字": "醉",
+        "旧字JIS": "6E4D",
+        "旧字Unicode": "9189",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "随",
+        "新字JIS": "3F6F",
+        "新字Unicode": "968F",
+        "旧字": "隨",
+        "旧字JIS": "6E2E",
+        "旧字Unicode": "96A8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "髄",
+        "新字JIS": "3F71",
+        "新字Unicode": "9AC4",
+        "旧字": "髓",
+        "旧字JIS": "7172",
+        "旧字Unicode": "9AD3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "数",
+        "新字JIS": "3F74",
+        "新字Unicode": "6570",
+        "旧字": "數",
+        "旧字JIS": "5A4B",
+        "旧字Unicode": "6578",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "枢",
+        "新字JIS": "3F75",
+        "新字Unicode": "67A2",
+        "旧字": "樞",
+        "旧字JIS": "5C64",
+        "旧字Unicode": "6A1E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "瀬",
+        "新字JIS": "4025",
+        "新字Unicode": "702C",
+        "旧字": "瀨",
+        "旧字JIS": "773E",
+        "旧字Unicode": "7028",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "声",
+        "新字JIS": "403C",
+        "新字Unicode": "58F0",
+        "旧字": "聲",
+        "旧字JIS": "6661",
+        "旧字Unicode": "8072",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "静",
+        "新字JIS": "4045",
+        "新字Unicode": "9759",
+        "旧字": "靜",
+        "旧字JIS": "7050",
+        "旧字Unicode": "975C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "斉",
+        "新字JIS": "4046",
+        "新字Unicode": "6589",
+        "旧字": "齊",
+        "旧字JIS": "736E",
+        "旧字Unicode": "9F4A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "摂",
+        "新字JIS": "405D",
+        "新字Unicode": "6442",
+        "旧字": "攝",
+        "旧字JIS": "5970",
+        "旧字Unicode": "651D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "窃",
+        "新字JIS": "4060",
+        "新字Unicode": "7A83",
+        "旧字": "竊",
+        "旧字JIS": "6366",
+        "旧字Unicode": "7ACA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "節",
+        "新字JIS": "4061",
+        "新字Unicode": "7BC0",
+        "旧字": "節",
+        "旧字JIS": "7964",
+        "旧字Unicode": "FA56",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "専",
+        "新字JIS": "406C",
+        "新字Unicode": "5C02",
+        "旧字": "專",
+        "旧字JIS": "5573",
+        "旧字Unicode": "5C08",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "戦",
+        "新字JIS": "406F",
+        "新字Unicode": "6226",
+        "旧字": "戰",
+        "旧字JIS": "5925",
+        "旧字Unicode": "6230",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "浅",
+        "新字JIS": "4075",
+        "新字Unicode": "6D45",
+        "旧字": "淺",
+        "旧字JIS": "5E49",
+        "旧字Unicode": "6DFA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "潜",
+        "新字JIS": "4078",
+        "新字Unicode": "6F5C",
+        "旧字": "潛",
+        "旧字JIS": "5F2A",
+        "旧字Unicode": "6F5B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "繊",
+        "新字JIS": "4121",
+        "新字Unicode": "7E4A",
+        "旧字": "纖",
+        "旧字JIS": "6579",
+        "旧字Unicode": "7E96",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "践",
+        "新字JIS": "4129",
+        "新字Unicode": "8DF5",
+        "旧字": "踐",
+        "旧字JIS": "6C78",
+        "旧字Unicode": "8E10",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "銭",
+        "新字JIS": "412C",
+        "新字Unicode": "92AD",
+        "旧字": "錢",
+        "旧字JIS": "6F22",
+        "旧字Unicode": "9322",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "禅",
+        "新字JIS": "4135",
+        "新字Unicode": "7985",
+        "旧字": "禪",
+        "旧字JIS": "6338",
+        "旧字Unicode": "79AA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "曽",
+        "新字JIS": "413E",
+        "新字Unicode": "66FD",
+        "旧字": "曾",
+        "旧字JIS": "413D",
+        "旧字Unicode": "66FE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祖",
+        "新字JIS": "4144",
+        "新字Unicode": "7956",
+        "旧字": "祖",
+        "旧字JIS": "7939",
+        "旧字Unicode": "FA50",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "僧",
+        "新字JIS": "414E",
+        "新字Unicode": "50E7",
+        "旧字": "僧",
+        "旧字JIS": "2E49",
+        "旧字Unicode": "FA31",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "双",
+        "新字JIS": "4150",
+        "新字Unicode": "53CC",
+        "旧字": "雙",
+        "旧字JIS": "5256",
+        "旧字Unicode": "96D9",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "壮",
+        "新字JIS": "4154",
+        "新字Unicode": "58EE",
+        "旧字": "壯",
+        "旧字JIS": "5463",
+        "旧字Unicode": "58EF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "層",
+        "新字JIS": "4158",
+        "新字Unicode": "5C64",
+        "旧字": "層",
+        "旧字JIS": "4F61",
+        "旧字Unicode": "FA3B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "捜",
+        "新字JIS": "415C",
+        "新字Unicode": "635C",
+        "旧字": "搜",
+        "旧字JIS": "5953",
+        "旧字Unicode": "641C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "挿",
+        "新字JIS": "415E",
+        "新字Unicode": "633F",
+        "旧字": "插",
+        "旧字JIS": "5967",
+        "旧字Unicode": "63D2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "巣",
+        "新字JIS": "4163",
+        "新字Unicode": "5DE3",
+        "旧字": "巢",
+        "旧字JIS": "7428",
+        "旧字Unicode": "5DE2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "争",
+        "新字JIS": "4168",
+        "新字Unicode": "4E89",
+        "旧字": "爭",
+        "旧字JIS": "6027",
+        "旧字Unicode": "722D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "痩",
+        "新字JIS": "4169",
+        "新字Unicode": "75E9",
+        "旧字": "瘦",
+        "旧字JIS": "7E7D",
+        "旧字Unicode": "7626",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "総",
+        "新字JIS": "416D",
+        "新字Unicode": "7DCF",
+        "旧字": "總",
+        "旧字JIS": "6541",
+        "旧字Unicode": "7E3D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "聡",
+        "新字JIS": "416F",
+        "新字Unicode": "8061",
+        "旧字": "聰",
+        "旧字JIS": "6662",
+        "旧字Unicode": "8070",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "荘",
+        "新字JIS": "4171",
+        "新字Unicode": "8358",
+        "旧字": "莊",
+        "旧字JIS": "6837",
+        "旧字Unicode": "838A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "装",
+        "新字JIS": "4175",
+        "新字Unicode": "88C5",
+        "旧字": "裝",
+        "旧字JIS": "6A66",
+        "旧字Unicode": "88DD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "騒",
+        "新字JIS": "417B",
+        "新字Unicode": "9A12",
+        "旧字": "騷",
+        "旧字JIS": "715B",
+        "旧字Unicode": "9A37",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "増",
+        "新字JIS": "417D",
+        "新字Unicode": "5897",
+        "旧字": "增",
+        "旧字JIS": "2F5D",
+        "旧字Unicode": "589E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "憎",
+        "新字JIS": "417E",
+        "新字Unicode": "618E",
+        "旧字": "憎",
+        "旧字JIS": "745E",
+        "旧字Unicode": "FA3F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "臓",
+        "新字JIS": "4221",
+        "新字Unicode": "81D3",
+        "旧字": "臟",
+        "旧字JIS": "6747",
+        "旧字Unicode": "81DF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "蔵",
+        "新字JIS": "4222",
+        "新字Unicode": "8535",
+        "旧字": "藏",
+        "旧字JIS": "6936",
+        "旧字Unicode": "85CF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "贈",
+        "新字JIS": "4223",
+        "新字Unicode": "8D08",
+        "旧字": "贈",
+        "旧字JIS": "7C3D",
+        "旧字Unicode": "FA65",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "即",
+        "新字JIS": "4228",
+        "新字Unicode": "5373",
+        "旧字": "卽",
+        "旧字JIS": "2E71",
+        "旧字Unicode": "537D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "属",
+        "新字JIS": "4230",
+        "新字Unicode": "5C5E",
+        "旧字": "屬",
+        "旧字JIS": "5624",
+        "旧字Unicode": "5C6C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "続",
+        "新字JIS": "4233",
+        "新字Unicode": "7D9A",
+        "旧字": "續",
+        "旧字JIS": "6574",
+        "旧字Unicode": "7E8C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "堕",
+        "新字JIS": "4244",
+        "新字Unicode": "5815",
+        "旧字": "墮",
+        "旧字JIS": "5458",
+        "旧字Unicode": "58AE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "体",
+        "新字JIS": "424E",
+        "新字Unicode": "4F53",
+        "旧字": "體",
+        "旧字JIS": "7173",
+        "旧字Unicode": "9AD4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "対",
+        "新字JIS": "4250",
+        "新字Unicode": "5BFE",
+        "旧字": "對",
+        "旧字JIS": "5574",
+        "旧字Unicode": "5C0D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "帯",
+        "新字JIS": "4253",
+        "新字Unicode": "5E2F",
+        "旧字": "帶",
+        "旧字JIS": "5668",
+        "旧字Unicode": "5E36",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "滞",
+        "新字JIS": "425A",
+        "新字Unicode": "6EDE",
+        "旧字": "滯",
+        "旧字JIS": "5E7C",
+        "旧字Unicode": "6EEF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "台",
+        "新字JIS": "4266",
+        "新字Unicode": "53F0",
+        "旧字": "臺",
+        "旧字JIS": "674A",
+        "旧字Unicode": "81FA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "滝",
+        "新字JIS": "426C",
+        "新字Unicode": "6EDD",
+        "旧字": "瀧",
+        "旧字JIS": "426D",
+        "旧字Unicode": "7027",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "択",
+        "新字JIS": "4272",
+        "新字Unicode": "629E",
+        "旧字": "擇",
+        "旧字JIS": "5A24",
+        "旧字Unicode": "64C7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "沢",
+        "新字JIS": "4274",
+        "新字Unicode": "6CA2",
+        "旧字": "澤",
+        "旧字JIS": "5F37",
+        "旧字Unicode": "6FA4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "琢",
+        "新字JIS": "4276",
+        "新字Unicode": "7422",
+        "旧字": "琢",
+        "旧字JIS": "7825",
+        "旧字Unicode": "FA4A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "単",
+        "新字JIS": "4331",
+        "新字Unicode": "5358",
+        "旧字": "單",
+        "旧字JIS": "5345",
+        "旧字Unicode": "55AE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "嘆",
+        "新字JIS": "4332",
+        "新字Unicode": "5606",
+        "旧字": "嘆",
+        "旧字JIS": "2F2F",
+        "旧字Unicode": "FA37",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "担",
+        "新字JIS": "4334",
+        "新字Unicode": "62C5",
+        "旧字": "擔",
+        "旧字JIS": "593F",
+        "旧字Unicode": "64D4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "胆",
+        "新字JIS": "4340",
+        "新字Unicode": "80C6",
+        "旧字": "膽",
+        "旧字JIS": "673C",
+        "旧字Unicode": "81BD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "団",
+        "新字JIS": "4344",
+        "新字Unicode": "56E3",
+        "旧字": "團",
+        "旧字JIS": "5425",
+        "旧字Unicode": "5718",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弾",
+        "新字JIS": "4346",
+        "新字Unicode": "5F3E",
+        "旧字": "彈",
+        "旧字JIS": "573C",
+        "旧字Unicode": "5F48",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "断",
+        "新字JIS": "4347",
+        "新字Unicode": "65AD",
+        "旧字": "斷",
+        "旧字JIS": "5A52",
+        "旧字Unicode": "65B7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "痴",
+        "新字JIS": "4354",
+        "新字Unicode": "75F4",
+        "旧字": "癡",
+        "旧字JIS": "6177",
+        "旧字Unicode": "7661",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "遅",
+        "新字JIS": "4359",
+        "新字Unicode": "9045",
+        "旧字": "遲",
+        "旧字JIS": "6E2F",
+        "旧字Unicode": "9072",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "昼",
+        "新字JIS": "436B",
+        "新字Unicode": "663C",
+        "旧字": "晝",
+        "旧字JIS": "5A6C",
+        "旧字Unicode": "665D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "虫",
+        "新字JIS": "436E",
+        "新字Unicode": "866B",
+        "旧字": "蟲",
+        "旧字JIS": "6A35",
+        "旧字Unicode": "87F2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "鋳",
+        "新字JIS": "4372",
+        "新字Unicode": "92F3",
+        "旧字": "鑄",
+        "旧字JIS": "6F49",
+        "旧字Unicode": "9444",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "猪",
+        "新字JIS": "4376",
+        "新字Unicode": "732A",
+        "旧字": "猪",
+        "旧字JIS": "776F",
+        "旧字Unicode": "FA16",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "著",
+        "新字JIS": "4378",
+        "新字Unicode": "8457",
+        "旧字": "著",
+        "旧字JIS": "7B27",
+        "旧字Unicode": "FA5F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "庁",
+        "新字JIS": "4423",
+        "新字Unicode": "5E81",
+        "旧字": "廳",
+        "旧字JIS": "572C",
+        "旧字Unicode": "5EF3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "徴",
+        "新字JIS": "4427",
+        "新字Unicode": "5FB4",
+        "旧字": "徵",
+        "旧字JIS": "7444",
+        "旧字Unicode": "5FB5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "懲",
+        "新字JIS": "4428",
+        "新字Unicode": "61F2",
+        "旧字": "懲",
+        "旧字JIS": "7461",
+        "旧字Unicode": "FA40",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "聴",
+        "新字JIS": "4430",
+        "新字Unicode": "8074",
+        "旧字": "聽",
+        "旧字JIS": "6665",
+        "旧字Unicode": "807D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "勅",
+        "新字JIS": "443C",
+        "新字Unicode": "52C5",
+        "旧字": "敕",
+        "旧字JIS": "5A45",
+        "旧字Unicode": "6555",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "鎮",
+        "新字JIS": "4443",
+        "新字Unicode": "93AE",
+        "旧字": "鎭",
+        "旧字JIS": "6F2F",
+        "旧字Unicode": "93AD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "塚",
+        "新字JIS": "444D",
+        "新字Unicode": "585A",
+        "旧字": "塚",
+        "旧字JIS": "2F57",
+        "旧字Unicode": "FA10",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "禎",
+        "新字JIS": "4477",
+        "新字Unicode": "798E",
+        "旧字": "禎",
+        "旧字JIS": "7940",
+        "旧字Unicode": "FA53",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "逓",
+        "新字JIS": "447E",
+        "新字Unicode": "9013",
+        "旧字": "遞",
+        "旧字JIS": "6E2A",
+        "旧字Unicode": "905E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "鉄",
+        "新字JIS": "4534",
+        "新字Unicode": "9244",
+        "旧字": "鐵",
+        "旧字JIS": "6F44",
+        "旧字Unicode": "9435",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "転",
+        "新字JIS": "453E",
+        "新字Unicode": "8EE2",
+        "旧字": "轉",
+        "旧字JIS": "6D5B",
+        "旧字Unicode": "8F49",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "点",
+        "新字JIS": "4540",
+        "新字Unicode": "70B9",
+        "旧字": "點",
+        "旧字JIS": "735A",
+        "旧字Unicode": "9EDE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "伝",
+        "新字JIS": "4541",
+        "新字Unicode": "4F1D",
+        "旧字": "傳",
+        "旧字JIS": "5123",
+        "旧字Unicode": "50B3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "都",
+        "新字JIS": "4554",
+        "新字Unicode": "90FD",
+        "旧字": "都",
+        "旧字JIS": "7C6A",
+        "旧字Unicode": "FA26",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "党",
+        "新字JIS": "455E",
+        "新字Unicode": "515A",
+        "旧字": "黨",
+        "旧字JIS": "735E",
+        "旧字Unicode": "9EE8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "盗",
+        "新字JIS": "4570",
+        "新字Unicode": "76D7",
+        "旧字": "盜",
+        "旧字JIS": "5D39",
+        "旧字Unicode": "76DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "灯",
+        "新字JIS": "4574",
+        "新字Unicode": "706F",
+        "旧字": "燈",
+        "旧字JIS": "4575",
+        "旧字Unicode": "71C8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "当",
+        "新字JIS": "4576",
+        "新字Unicode": "5F53",
+        "旧字": "當",
+        "旧字JIS": "6144",
+        "旧字Unicode": "7576",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "闘",
+        "新字JIS": "462E",
+        "新字Unicode": "95D8",
+        "旧字": "鬭",
+        "旧字JIS": "722C",
+        "旧字Unicode": "9B2D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "徳",
+        "新字JIS": "4641",
+        "新字Unicode": "5FB3",
+        "旧字": "德",
+        "旧字JIS": "7445",
+        "旧字Unicode": "5FB7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "独",
+        "新字JIS": "4648",
+        "新字Unicode": "72EC",
+        "旧字": "獨",
+        "旧字JIS": "6057",
+        "旧字Unicode": "7368",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "読",
+        "新字JIS": "4649",
+        "新字Unicode": "8AAD",
+        "旧字": "讀",
+        "旧字JIS": "6C26",
+        "旧字Unicode": "8B80",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "突",
+        "新字JIS": "464D",
+        "新字Unicode": "7A81",
+        "旧字": "突",
+        "旧字JIS": "7951",
+        "旧字Unicode": "FA55",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "届",
+        "新字JIS": "464F",
+        "新字Unicode": "5C4A",
+        "旧字": "屆",
+        "旧字JIS": "557C",
+        "旧字Unicode": "5C46",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "縄",
+        "新字JIS": "466C",
+        "新字Unicode": "7E04",
+        "旧字": "繩",
+        "旧字JIS": "656A",
+        "旧字Unicode": "7E69",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "難",
+        "新字JIS": "4671",
+        "新字Unicode": "96E3",
+        "旧字": "難",
+        "旧字JIS": "7D63",
+        "旧字Unicode": "FA68",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弐",
+        "新字JIS": "4675",
+        "新字Unicode": "5F10",
+        "旧字": "貳",
+        "旧字JIS": "6C48",
+        "旧字Unicode": "8CB3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "悩",
+        "新字JIS": "473A",
+        "新字Unicode": "60A9",
+        "旧字": "惱",
+        "旧字JIS": "583D",
+        "旧字Unicode": "60F1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "脳",
+        "新字JIS": "473E",
+        "新字Unicode": "8133",
+        "旧字": "腦",
+        "旧字JIS": "672A",
+        "旧字Unicode": "8166",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "覇",
+        "新字JIS": "4746",
+        "新字Unicode": "8987",
+        "旧字": "霸",
+        "旧字JIS": "5B31",
+        "旧字Unicode": "9738",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "廃",
+        "新字JIS": "4751",
+        "新字Unicode": "5EC3",
+        "旧字": "廢",
+        "旧字JIS": "5726",
+        "旧字Unicode": "5EE2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "拝",
+        "新字JIS": "4752",
+        "新字Unicode": "62DD",
+        "旧字": "拜",
+        "旧字JIS": "5941",
+        "旧字Unicode": "62DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "梅",
+        "新字JIS": "475F",
+        "新字Unicode": "6885",
+        "旧字": "梅",
+        "旧字JIS": "7565",
+        "旧字Unicode": "FA44",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "売",
+        "新字JIS": "4764",
+        "新字Unicode": "58F2",
+        "旧字": "賣",
+        "旧字JIS": "6C4E",
+        "旧字Unicode": "8CE3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "麦",
+        "新字JIS": "477E",
+        "新字Unicode": "9EA6",
+        "旧字": "麥",
+        "旧字JIS": "734E",
+        "旧字Unicode": "9EA5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "発",
+        "新字JIS": "482F",
+        "新字Unicode": "767A",
+        "旧字": "發",
+        "旧字JIS": "6224",
+        "旧字Unicode": "767C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "髪",
+        "新字JIS": "4831",
+        "新字Unicode": "9AEA",
+        "旧字": "髮",
+        "旧字JIS": "717B",
+        "旧字Unicode": "9AEE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "抜",
+        "新字JIS": "4834",
+        "新字Unicode": "629C",
+        "旧字": "拔",
+        "旧字JIS": "5936",
+        "旧字Unicode": "62D4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "繁",
+        "新字JIS": "484B",
+        "新字Unicode": "7E41",
+        "旧字": "繁",
+        "旧字JIS": "7A33",
+        "旧字Unicode": "FA59",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "晩",
+        "新字JIS": "4855",
+        "新字Unicode": "6669",
+        "旧字": "晚",
+        "旧字JIS": "753C",
+        "旧字Unicode": "665A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "蛮",
+        "新字JIS": "485A",
+        "新字Unicode": "86EE",
+        "旧字": "蠻",
+        "旧字JIS": "6A47",
+        "旧字Unicode": "883B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "卑",
+        "新字JIS": "485C",
+        "新字Unicode": "5351",
+        "旧字": "卑",
+        "旧字JIS": "2E6E",
+        "旧字Unicode": "FA35",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "碑",
+        "新字JIS": "486A",
+        "新字Unicode": "7891",
+        "旧字": "碑",
+        "旧字JIS": "7927",
+        "旧字Unicode": "FA4B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "秘",
+        "新字JIS": "486B",
+        "新字Unicode": "79D8",
+        "旧字": "祕",
+        "旧字JIS": "6330",
+        "旧字Unicode": "7955",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "浜",
+        "新字JIS": "494D",
+        "新字Unicode": "6D5C",
+        "旧字": "濱",
+        "旧字JIS": "5F40",
+        "旧字Unicode": "6FF1",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "賓",
+        "新字JIS": "4950",
+        "新字Unicode": "8CD3",
+        "旧字": "賓",
+        "旧字JIS": "7C38",
+        "旧字Unicode": "FA64",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "頻",
+        "新字JIS": "4951",
+        "新字Unicode": "983B",
+        "旧字": "頻",
+        "旧字JIS": "7D7B",
+        "旧字Unicode": "FA6A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "敏",
+        "新字JIS": "4952",
+        "新字Unicode": "654F",
+        "旧字": "敏",
+        "旧字JIS": "7528",
+        "旧字Unicode": "FA41",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "瓶",
+        "新字JIS": "4953",
+        "新字Unicode": "74F6",
+        "旧字": "甁",
+        "旧字JIS": "7847",
+        "旧字Unicode": "7501",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "侮",
+        "新字JIS": "496E",
+        "新字Unicode": "4FAE",
+        "旧字": "侮",
+        "旧字JIS": "2E38",
+        "旧字Unicode": "FA30",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "福",
+        "新字JIS": "4A21",
+        "新字Unicode": "798F",
+        "旧字": "福",
+        "旧字JIS": "7941",
+        "旧字Unicode": "FA1B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "払",
+        "新字JIS": "4A27",
+        "新字Unicode": "6255",
+        "旧字": "拂",
+        "旧字JIS": "5944",
+        "旧字Unicode": "62C2",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "仏",
+        "新字JIS": "4A29",
+        "新字Unicode": "4ECF",
+        "旧字": "佛",
+        "旧字JIS": "5047",
+        "旧字Unicode": "4F5B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "併",
+        "新字JIS": "4A3B",
+        "新字Unicode": "4F75",
+        "旧字": "倂",
+        "旧字JIS": "2E3C",
+        "旧字Unicode": "5002",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "塀",
+        "新字JIS": "4A3D",
+        "新字Unicode": "5840",
+        "旧字": "塀",
+        "旧字JIS": "2F5A",
+        "旧字Unicode": "FA39",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "並",
+        "新字JIS": "4A42",
+        "新字Unicode": "4E26",
+        "旧字": "竝",
+        "旧字JIS": "636D",
+        "旧字Unicode": "7ADD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "変",
+        "新字JIS": "4A51",
+        "新字Unicode": "5909",
+        "旧字": "變",
+        "旧字JIS": "5A4E",
+        "旧字Unicode": "8B8A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "辺",
+        "新字JIS": "4A55",
+        "新字Unicode": "8FBA",
+        "旧字": "邊",
+        "旧字JIS": "6E34",
+        "旧字Unicode": "908A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "勉",
+        "新字JIS": "4A59",
+        "新字Unicode": "52C9",
+        "旧字": "勉",
+        "旧字JIS": "2E63",
+        "旧字Unicode": "FA33",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弁",
+        "新字JIS": "4A5B",
+        "新字Unicode": "5F01",
+        "旧字": "辨",
+        "旧字JIS": "517E",
+        "旧字Unicode": "8FA8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弁",
+        "新字JIS": "4A5B",
+        "新字Unicode": "5F01",
+        "旧字": "瓣",
+        "旧字JIS": "6122",
+        "旧字Unicode": "74E3",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弁",
+        "新字JIS": "4A5B",
+        "新字Unicode": "5F01",
+        "旧字": "辯",
+        "旧字JIS": "6D67",
+        "旧字Unicode": "8FAF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "舗",
+        "新字JIS": "4A5E",
+        "新字Unicode": "8217",
+        "旧字": "舖",
+        "旧字JIS": "6754",
+        "旧字Unicode": "8216",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "歩",
+        "新字JIS": "4A62",
+        "新字Unicode": "6B69",
+        "旧字": "步",
+        "旧字JIS": "7643",
+        "旧字Unicode": "6B65",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "穂",
+        "新字JIS": "4A66",
+        "新字Unicode": "7A42",
+        "旧字": "穗",
+        "旧字JIS": "634F",
+        "旧字Unicode": "7A57",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "宝",
+        "新字JIS": "4A75",
+        "新字Unicode": "5B9D",
+        "旧字": "寶",
+        "旧字JIS": "556F",
+        "旧字Unicode": "5BF6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "褒",
+        "新字JIS": "4B2B",
+        "新字Unicode": "8912",
+        "旧字": "襃",
+        "旧字JIS": "6A71",
+        "旧字Unicode": "8943",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "豊",
+        "新字JIS": "4B2D",
+        "新字Unicode": "8C4A",
+        "旧字": "豐",
+        "旧字JIS": "6C34",
+        "旧字Unicode": "8C50",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "墨",
+        "新字JIS": "4B4F",
+        "新字Unicode": "58A8",
+        "旧字": "墨",
+        "旧字JIS": "2F5E",
+        "旧字Unicode": "FA3A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "没",
+        "新字JIS": "4B57",
+        "新字Unicode": "6CA1",
+        "旧字": "沒",
+        "旧字JIS": "5D73",
+        "旧字Unicode": "6C92",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "翻",
+        "新字JIS": "4B5D",
+        "新字Unicode": "7FFB",
+        "旧字": "飜",
+        "旧字JIS": "664C",
+        "旧字Unicode": "98DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "毎",
+        "新字JIS": "4B68",
+        "新字Unicode": "6BCE",
+        "旧字": "每",
+        "旧字JIS": "764A",
+        "旧字Unicode": "6BCF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "槙",
+        "新字JIS": "4B6A",
+        "新字Unicode": "69D9",
+        "旧字": "槇",
+        "旧字JIS": "7422",
+        "旧字Unicode": "69C7",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "万",
+        "新字JIS": "4B7C",
+        "新字Unicode": "4E07",
+        "旧字": "萬",
+        "旧字JIS": "685F",
+        "旧字Unicode": "842C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "満",
+        "新字JIS": "4B7E",
+        "新字Unicode": "6E80",
+        "旧字": "滿",
+        "旧字JIS": "5E60",
+        "旧字Unicode": "6EFF",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "免",
+        "新字JIS": "4C48",
+        "新字Unicode": "514D",
+        "旧字": "免",
+        "旧字JIS": "2E50",
+        "旧字Unicode": "FA32",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "麺",
+        "新字JIS": "4C4D",
+        "新字Unicode": "9EBA",
+        "旧字": "麵",
+        "旧字JIS": "7E70",
+        "旧字Unicode": "9EB5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "黙",
+        "新字JIS": "4C5B",
+        "新字Unicode": "9ED9",
+        "旧字": "默",
+        "旧字JIS": "6054",
+        "旧字Unicode": "9ED8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "餅",
+        "新字JIS": "4C5F",
+        "新字Unicode": "9905",
+        "旧字": "餠",
+        "旧字JIS": "7136",
+        "旧字Unicode": "9920",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "戻",
+        "新字JIS": "4C61",
+        "新字Unicode": "623B",
+        "旧字": "戾",
+        "旧字JIS": "7463",
+        "旧字Unicode": "623E",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "弥",
+        "新字JIS": "4C6F",
+        "新字Unicode": "5F25",
+        "旧字": "彌",
+        "旧字JIS": "573D",
+        "旧字Unicode": "5F4C",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "薬",
+        "新字JIS": "4C74",
+        "新字Unicode": "85AC",
+        "旧字": "藥",
+        "旧字JIS": "693B",
+        "旧字Unicode": "85E5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "訳",
+        "新字JIS": "4C75",
+        "新字Unicode": "8A33",
+        "旧字": "譯",
+        "旧字JIS": "6C23",
+        "旧字Unicode": "8B6F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "祐",
+        "新字JIS": "4D34",
+        "新字Unicode": "7950",
+        "旧字": "祐",
+        "旧字JIS": "7938",
+        "旧字Unicode": "FA4F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "予",
+        "新字JIS": "4D3D",
+        "新字Unicode": "4E88",
+        "旧字": "豫",
+        "旧字JIS": "502E",
+        "旧字Unicode": "8C6B",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "余",
+        "新字JIS": "4D3E",
+        "新字Unicode": "4F59",
+        "旧字": "餘",
+        "旧字JIS": "7131",
+        "旧字Unicode": "9918",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "与",
+        "新字JIS": "4D3F",
+        "新字Unicode": "4E0E",
+        "旧字": "與",
+        "旧字JIS": "6750",
+        "旧字Unicode": "8207",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "誉",
+        "新字JIS": "4D40",
+        "新字Unicode": "8A89",
+        "旧字": "譽",
+        "旧字JIS": "6C25",
+        "旧字Unicode": "8B7D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "揺",
+        "新字JIS": "4D49",
+        "新字Unicode": "63FA",
+        "旧字": "搖",
+        "旧字JIS": "596A",
+        "旧字Unicode": "6416",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "様",
+        "新字JIS": "4D4D",
+        "新字Unicode": "69D8",
+        "旧字": "樣",
+        "旧字JIS": "5C6B",
+        "旧字Unicode": "6A23",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "謡",
+        "新字JIS": "4D58",
+        "新字Unicode": "8B21",
+        "旧字": "謠",
+        "旧字JIS": "6B6F",
+        "旧字Unicode": "8B20",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "遥",
+        "新字JIS": "4D5A",
+        "新字Unicode": "9065",
+        "旧字": "遙",
+        "旧字JIS": "7423",
+        "旧字Unicode": "9059",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "来",
+        "新字JIS": "4D68",
+        "新字Unicode": "6765",
+        "旧字": "來",
+        "旧字JIS": "5054",
+        "旧字Unicode": "4F86",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "頼",
+        "新字JIS": "4D6A",
+        "新字Unicode": "983C",
+        "旧字": "賴",
+        "旧字JIS": "7C3A",
+        "旧字Unicode": "8CF4",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "乱",
+        "新字JIS": "4D70",
+        "新字Unicode": "4E71",
+        "旧字": "亂",
+        "旧字JIS": "502C",
+        "旧字Unicode": "4E82",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "欄",
+        "新字JIS": "4D73",
+        "新字Unicode": "6B04",
+        "旧字": "欄",
+        "旧字JIS": "763B",
+        "旧字Unicode": "F91D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "覧",
+        "新字JIS": "4D77",
+        "新字Unicode": "89A7",
+        "旧字": "覽",
+        "旧字JIS": "6B35",
+        "旧字Unicode": "89BD",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "隆",
+        "新字JIS": "4E34",
+        "新字Unicode": "9686",
+        "旧字": "隆",
+        "旧字JIS": "7D5D",
+        "旧字Unicode": "F9DC",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "竜",
+        "新字JIS": "4E35",
+        "新字Unicode": "7ADC",
+        "旧字": "龍",
+        "旧字JIS": "4E36",
+        "旧字Unicode": "9F8D",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "虜",
+        "新字JIS": "4E3A",
+        "新字Unicode": "865C",
+        "旧字": "虜",
+        "旧字JIS": "7B4F",
+        "旧字Unicode": "F936",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "両",
+        "新字JIS": "4E3E",
+        "新字Unicode": "4E21",
+        "旧字": "兩",
+        "旧字JIS": "5140",
+        "旧字Unicode": "5169",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "猟",
+        "新字JIS": "4E44",
+        "新字Unicode": "731F",
+        "旧字": "獵",
+        "旧字JIS": "605A",
+        "旧字Unicode": "7375",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "緑",
+        "新字JIS": "4E50",
+        "新字Unicode": "7DD1",
+        "旧字": "綠",
+        "旧字JIS": "7A28",
+        "旧字Unicode": "7DA0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "塁",
+        "新字JIS": "4E5D",
+        "新字Unicode": "5841",
+        "旧字": "壘",
+        "旧字JIS": "545E",
+        "旧字Unicode": "58D8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "涙",
+        "新字JIS": "4E5E",
+        "新字Unicode": "6D99",
+        "旧字": "淚",
+        "旧字JIS": "7673",
+        "旧字Unicode": "6DDA",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "類",
+        "新字JIS": "4E60",
+        "新字Unicode": "985E",
+        "旧字": "類",
+        "旧字JIS": "7E24",
+        "旧字Unicode": "F9D0",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "励",
+        "新字JIS": "4E65",
+        "新字Unicode": "52B1",
+        "旧字": "勵",
+        "旧字JIS": "522F",
+        "旧字Unicode": "52F5",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "礼",
+        "新字JIS": "4E69",
+        "新字Unicode": "793C",
+        "旧字": "禮",
+        "旧字JIS": "6339",
+        "旧字Unicode": "79AE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "隷",
+        "新字JIS": "4E6C",
+        "新字Unicode": "96B7",
+        "旧字": "隸",
+        "旧字JIS": "7031",
+        "旧字Unicode": "96B8",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "霊",
+        "新字JIS": "4E6E",
+        "新字Unicode": "970A",
+        "旧字": "靈",
+        "旧字JIS": "704D",
+        "旧字Unicode": "9748",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "齢",
+        "新字JIS": "4E70",
+        "新字Unicode": "9F62",
+        "旧字": "齡",
+        "旧字JIS": "7374",
+        "旧字Unicode": "9F61",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "暦",
+        "新字JIS": "4E71",
+        "新字Unicode": "66A6",
+        "旧字": "曆",
+        "旧字JIS": "7547",
+        "旧字Unicode": "66C6",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "歴",
+        "新字JIS": "4E72",
+        "新字Unicode": "6B74",
+        "旧字": "歷",
+        "旧字JIS": "7645",
+        "旧字Unicode": "6B77",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "恋",
+        "新字JIS": "4E78",
+        "新字Unicode": "604B",
+        "旧字": "戀",
+        "旧字JIS": "5878",
+        "旧字Unicode": "6200",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "練",
+        "新字JIS": "4E7D",
+        "新字Unicode": "7DF4",
+        "旧字": "練",
+        "旧字JIS": "7A2E",
+        "旧字Unicode": "FA57",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "錬",
+        "新字JIS": "4F23",
+        "新字Unicode": "932C",
+        "旧字": "鍊",
+        "旧字JIS": "7D3B",
+        "旧字Unicode": "934A",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "炉",
+        "新字JIS": "4F27",
+        "新字Unicode": "7089",
+        "旧字": "爐",
+        "旧字JIS": "6024",
+        "旧字Unicode": "7210",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "労",
+        "新字JIS": "4F2B",
+        "新字Unicode": "52B4",
+        "旧字": "勞",
+        "旧字JIS": "5229",
+        "旧字Unicode": "52DE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "廊",
+        "新字JIS": "4F2D",
+        "新字Unicode": "5ECA",
+        "旧字": "廊",
+        "旧字JIS": "742E",
+        "旧字Unicode": "F928",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "朗",
+        "新字JIS": "4F2F",
+        "新字Unicode": "6717",
+        "旧字": "朗",
+        "旧字JIS": "754E",
+        "旧字Unicode": "F929",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "楼",
+        "新字JIS": "4F30",
+        "新字Unicode": "697C",
+        "旧字": "樓",
+        "旧字JIS": "5C6C",
+        "旧字Unicode": "6A13",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "郎",
+        "新字JIS": "4F3A",
+        "新字Unicode": "90CE",
+        "旧字": "郞",
+        "旧字JIS": "7C67",
+        "旧字Unicode": "90DE",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "禄",
+        "新字JIS": "4F3D",
+        "新字Unicode": "7984",
+        "旧字": "祿",
+        "旧字JIS": "6333",
+        "旧字Unicode": "797F",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "録",
+        "新字JIS": "4F3F",
+        "新字Unicode": "9332",
+        "旧字": "錄",
+        "旧字JIS": "7D35",
+        "旧字Unicode": "9304",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "湾",
+        "新字JIS": "4F51",
+        "新字Unicode": "6E7E",
+        "旧字": "灣",
+        "旧字JIS": "5F54",
+        "旧字Unicode": "7063",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    },
+    {
+        "新字": "瑶",
+        "新字JIS": "6076",
+        "新字Unicode": "7476",
+        "旧字": "瑤",
+        "旧字JIS": "7424",
+        "旧字Unicode": "7464",
+        "引用": "https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html, 2024-06-06"
+    }
+]
