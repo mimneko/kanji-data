@@ -41,6 +41,93 @@ AsahiNet[^7]による。
 
 文献によって新字体・旧字体の定義が異なり、これより少ないとしているもの、多いとしているものの両方が見られる。本リポジトリでは、最終的に「旧字体のようなもの」を網羅することを目指す。
 
+---
+
+## CSV / JSON ダウンロード一覧
+
+以下は、このリポジトリ内に存在する  
+`.csv` および `.json` ファイルの自動生成リンクです。
+
+- 個別ダウンロード用リンク
+- 一括取得は GitHub の ZIP を利用
+
+<div id="download-meta">
+  <a id="repo-zip" href="#" target="_blank" rel="noopener">
+    リポジトリを ZIP でダウンロード
+  </a>
+</div>
+
+<div id="download-status">取得中です。</div>
+<ul id="download-list"></ul>
+
+<script>
+(() => {
+  // ===== 設定 =====
+  const OWNER = "mimneko";   // GitHub ユーザ名
+  const REPO  = "kanji-data";   // リポジトリ名
+  const REF   = "main";        // ブランチ or タグ
+  const START_PATH = "";       // "data" などに限定可
+
+  const apiUrl = (path) => {
+    const p = path ? "/" + path : "";
+    return `https://api.github.com/repos/${OWNER}/${REPO}/contents${p}?ref=${REF}`;
+  };
+
+  const rawUrl = (path) =>
+    `https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${path}`;
+
+  document.getElementById("repo-zip").href =
+    `https://github.com/${OWNER}/${REPO}/archive/refs/heads/${REF}.zip`;
+
+  const listEl = document.getElementById("download-list");
+  const statusEl = document.getElementById("download-status");
+
+  const isTarget = (name) =>
+    name.endsWith(".csv") || name.endsWith(".json");
+
+  async function fetchJSON(url) {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(r.statusText);
+    return r.json();
+  }
+
+  async function walk(path, acc) {
+    const items = await fetchJSON(apiUrl(path));
+    if (!Array.isArray(items)) return;
+
+    for (const item of items) {
+      if (item.type === "file" && isTarget(item.name)) {
+        acc.push(item.path);
+      }
+      if (item.type === "dir") {
+        await walk(item.path, acc);
+      }
+    }
+  }
+
+  (async () => {
+    try {
+      const files = [];
+      await walk(START_PATH, files);
+
+      files.sort().forEach(p => {
+        const li = document.createElement("li");
+        const a  = document.createElement("a");
+        a.href = rawUrl(p);
+        a.textContent = p;
+        a.setAttribute("download", "");
+        li.appendChild(a);
+        listEl.appendChild(li);
+      });
+
+      statusEl.textContent = `件数: ${files.length}`;
+    } catch (e) {
+      statusEl.textContent = "取得に失敗しました。";
+    }
+  })();
+})();
+</script>
+
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
 [^3]: 公益財団法人 日本漢字能力検定協会．『漢検漢字辞典』第二版．2014，1984p．
