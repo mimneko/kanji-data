@@ -41,16 +41,9 @@ AsahiNet[^7]による。
 
 文献によって新字体・旧字体の定義が異なり、これより少ないとしているもの、多いとしているものの両方が見られる。本リポジトリでは、最終的に「旧字体のようなもの」を網羅することを目指す。
 
----
-
-## CSV / JSON ダウンロード一覧
+## ダウンロードリンク
 
 以下は、このリポジトリ内に存在する  
-`.csv` および `.json` ファイルの自動生成リンクです。
-
-- 個別ダウンロード用リンク
-- 一括取得は GitHub の ZIP を利用
-
 <div id="download-meta">
   <a id="repo-zip" href="#" target="_blank" rel="noopener">
     リポジトリを ZIP でダウンロード
@@ -127,6 +120,8 @@ AsahiNet[^7]による。
   })();
 })();
 </script>
+
+---
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
