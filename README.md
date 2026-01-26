@@ -1,6 +1,6 @@
 # kanji-data
 
-日本語・漢字に関する各種データを整理し、再利用しやすい形で保管することを目的としたデータ集である。
+日本語・漢字に関する各種データを整理し、再利用しやすい形で保管することを目的としたデータ集。
 主に、漢字検定1級の学習への利用を想定している。
 
 ## データ一覧
@@ -104,88 +104,6 @@ JIS水準と面区点コードのおおまかな対応は以下のとおりで�
 ## 今後の追加予定
 
 - 各字種・字体に対して、全データ間で共通となる一意の識別番号を付与する。
-
-## ダウンロードリンク
-
-以下は、本リポジトリ内に存在するファイルへのリンクである。
-<div id="download-meta">
-  <a id="repo-zip" href="#" target="_blank" rel="noopener">
-    リポジトリを ZIP でダウンロード
-  </a>
-</div>
-
-<div id="download-status">取得中です。</div>
-<ul id="download-list"></ul>
-
-<script>
-(() => {
-  // ===== 設定 =====
-  const OWNER = "mimneko";   // GitHub ユーザ名
-  const REPO  = "kanji-data";   // リポジトリ名
-  const REF   = "main";        // ブランチ or タグ
-  const START_PATH = "";       // "data" などに限定可
-
-  const apiUrl = (path) => {
-    const p = path ? "/" + path : "";
-    return `https://api.github.com/repos/${OWNER}/${REPO}/contents${p}?ref=${REF}`;
-  };
-
-  const rawUrl = (path) =>
-    `https://raw.githubusercontent.com/${OWNER}/${REPO}/${REF}/${path}`;
-
-  document.getElementById("repo-zip").href =
-    `https://github.com/${OWNER}/${REPO}/archive/refs/heads/${REF}.zip`;
-
-  const listEl = document.getElementById("download-list");
-  const statusEl = document.getElementById("download-status");
-
-  const isTarget = (name) =>
-    name.endsWith(".csv") || name.endsWith(".json");
-
-  async function fetchJSON(url) {
-    const r = await fetch(url);
-    if (!r.ok) throw new Error(r.statusText);
-    return r.json();
-  }
-
-  async function walk(path, acc) {
-    const items = await fetchJSON(apiUrl(path));
-    if (!Array.isArray(items)) return;
-
-    for (const item of items) {
-      if (item.type === "file" && isTarget(item.name)) {
-        acc.push(item.path);
-      }
-      if (item.type === "dir") {
-        await walk(item.path, acc);
-      }
-    }
-  }
-
-  (async () => {
-    try {
-      const files = [];
-      await walk(START_PATH, files);
-
-      files.sort().forEach(p => {
-        const li = document.createElement("li");
-        const a  = document.createElement("a");
-        a.href = rawUrl(p);
-        a.textContent = p;
-        a.setAttribute("download", "");
-        li.appendChild(a);
-        listEl.appendChild(li);
-      });
-
-      statusEl.textContent = `件数: ${files.length}`;
-    } catch (e) {
-      statusEl.textContent = "取得に失敗しました。";
-    }
-  })();
-})();
-</script>
-
----
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
