@@ -104,6 +104,9 @@ JIS水準と面区点コードのおおまかな対応は以下のとおりで�
 ## 今後の追加予定
 
 - 各字種・字体に対して、全データ間で共通となる一意の識別番号を付与する。
+- 新字源、漢字源、漢字辞典オンライン、グリフウィキでの掲載ページ・リンクを整理する。
+- 漢検の過去問を調査し、配当漢字が実際にどのくらいの頻度で出題されているか、また漢検漢字辞典外の漢字が出題されていないか調査する。
+- 今後出題される可能性のある漢字や熟語も収集する。
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
