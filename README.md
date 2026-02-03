@@ -29,7 +29,8 @@ https://cdn.jsdelivr.net/gh/mimneko/kanji-data@main/JIS漢字.csv
 
 ### JIS漢字.csv
 
-日本産業規格（JIS）の JIS X 0213 漢字一覧 に基づく、漢字10050字を収録した CSV データ。
+日本産業規格（JIS）の JIS X 0213 漢字一覧 の漢字10050字を収録した CSV データ。
+作成にあたっては，漢字辞典オンライン「JIS第1水準の漢字の一覧」「JIS第2水準の漢字の一覧」「JIS第3水準の漢字の一覧」「JIS第4水準の漢字の一覧」[^8]を参考資料として用いた。
 
 - 漢字
 - JIS 面区点番号
@@ -126,6 +127,7 @@ JIS水準と面区点番号のおおまかな対応は以下のとおりであ�
 ### 六十干支
 
 十干・十二支および、それらの組合せによって成立する六十干支に関するデータを収録した。
+作成にあたっては，国立国会図書館「日本の暦」[^9]を参考資料として用いた。
 
 #### 六十干支.csv
 
@@ -158,9 +160,11 @@ JIS水準と面区点番号のおおまかな対応は以下のとおりであ�
 ## 今後の追加予定
 
 - 各字種・字体に対して、全データ間で共通となる一意の識別番号を付与する。
-- 『漢検四字熟語辞典』、『新字源』、『漢字源』、漢字辞典オンライン、グリフウィキでの掲載ページ・リンクを整理する。
-- 漢字検定1級の過去問を調査し、配当漢字が実際にどのくらいの頻度で出題されているか、また漢検漢字辞典外の漢字が出題されていないか調査する。
-- 過去の傾向から、漢字検定1級に今後出題される可能性のある漢字や熟語も収集する。
+- 『漢検四字熟語辞典』、『新字源』、『漢字源』、「漢字辞典オンライン」、「グリフウィキ」での掲載ページ・リンクを整理する。
+- 漢字検定1級の過去問を調査する。
+  - 配当漢字が実際にどのくらいの頻度で出題されているか、また漢検漢字辞典外の漢字が出題されていないか調べる。
+  - 出題される四字熟語は『漢検四字熟語辞典』に載っているものだけか調べる。
+  - 試験全体を通して、『漢検漢字辞典』および『漢検四字熟語辞典』の知識だけで何点取ることができるか調べる。
 
 [^1]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
 [^2]: https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf
@@ -169,3 +173,5 @@ JIS水準と面区点番号のおおまかな対応は以下のとおりであ�
 [^5]: https://www.kanken.or.jp/kanken/grades/overview/
 [^6]: https://www.moj.go.jp/MINJI/minji86.html
 [^7]: https://elaws.e-gov.go.jp/document?lawid=322M40000010094
+[^8]: https://kanji.jitenon.jp/cat/jisdai1, https://kanji.jitenon.jp/cat/jisdai2, https://kanji.jitenon.jp/cat/jisdai3, https://kanji.jitenon.jp/cat/jisdai4
+[^9]: https://www.ndl.go.jp/koyomi/chapter3/s1.html
